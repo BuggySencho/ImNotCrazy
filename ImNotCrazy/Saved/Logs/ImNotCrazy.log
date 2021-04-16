@@ -1118,3 +1118,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.16-10.08.44:700][198]LogContentBrowser: Creating deferred item: NewFolder
 [2021.04.16-10.08.52:694][678]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
 [2021.04.16-10.08.52:696][678]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.16-10.27.02:564][904]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.16-10.27.02:938][926]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.16-10.27.06:286][116]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.04.16-10.27.06:299][116]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.04.16-10.27.18:225][832]LogContentBrowser: Attempting asset rename: NewMaterial -> TestMaterial
+[2021.04.16-10.27.18:229][832]LogContentBrowser: End creating deferred item NewMaterial
+[2021.04.16-10.27.20:500][962]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.16-10.27.20:501][962]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.16-10.27.20:556][962]LogSavePackage: Moving '../../../../../../Users/ianar/Documents/GitHub/ImNotCrazy/ImNotCrazy/Saved/TestMaterialC20632B2489FC11727FF1F89B166BB5E.tmp' to '../../../../../../Users/ianar/Documents/GitHub/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Materials/TestMaterial.uasset'
+[2021.04.16-10.27.20:579][962]AssetCheck: New page: Asset Save: TestMaterial
+[2021.04.16-10.27.20:579][962]LogContentValidation: Display: Validating Material /Game/ImNotCrazy/Materials/TestMaterial.TestMaterial
