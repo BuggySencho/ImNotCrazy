@@ -1129,3 +1129,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.16-10.27.20:556][962]LogSavePackage: Moving '../../../../../../Users/ianar/Documents/GitHub/ImNotCrazy/ImNotCrazy/Saved/TestMaterialC20632B2489FC11727FF1F89B166BB5E.tmp' to '../../../../../../Users/ianar/Documents/GitHub/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Materials/TestMaterial.uasset'
 [2021.04.16-10.27.20:579][962]AssetCheck: New page: Asset Save: TestMaterial
 [2021.04.16-10.27.20:579][962]LogContentValidation: Display: Validating Material /Game/ImNotCrazy/Materials/TestMaterial.TestMaterial
+[2021.04.16-10.30.36:793][831]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.16-10.30.36:990][842]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.16-10.30.38:356][915]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.16-10.30.38:379][915]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.16-10.30.40:891][ 66]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2021.04.16-10.30.40:891][ 66]LogContentBrowser: End creating deferred item NewFolder
