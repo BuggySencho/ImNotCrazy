@@ -800,3 +800,102 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.29-10.42.40:807][  0]LogAssetRegistry: Asset discovery search completed in 5.4846 seconds
 [2021.06.29-10.42.40:808][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2021.06.29-10.42.40:830][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.29-10.54.15:612][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Door_Outdoor_Staircase': Can't find file.
+[2021.06.29-10.54.15:612][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Door_Outdoor_Staircase': Can't find file.
+[2021.06.29-10.54.15:612][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Door_Outdoor_Staircase.BP_Door_Outdoor_Staircase'
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_01': Can't find file.
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_01': Can't find file.
+[2021.06.29-10.54.15:613][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_01.BP_Doorway_01_Door_01'
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_02': Can't find file.
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_02': Can't find file.
+[2021.06.29-10.54.15:613][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_02.BP_Doorway_01_Door_02'
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_03': Can't find file.
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_03': Can't find file.
+[2021.06.29-10.54.15:613][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_03.BP_Doorway_01_Door_03'
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_04': Can't find file.
+[2021.06.29-10.54.15:613][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_04': Can't find file.
+[2021.06.29-10.54.15:613][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_04.BP_Doorway_01_Door_04'
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_05': Can't find file.
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_05': Can't find file.
+[2021.06.29-10.54.15:614][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_05.BP_Doorway_01_Door_05'
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_5': Can't find file.
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_5': Can't find file.
+[2021.06.29-10.54.15:614][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_5.BP_Doorway_01_Door_5'
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_06': Can't find file.
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_01_Door_06': Can't find file.
+[2021.06.29-10.54.15:614][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_01_Door_06.BP_Doorway_01_Door_06'
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_02_Door_01': Can't find file.
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_02_Door_01': Can't find file.
+[2021.06.29-10.54.15:614][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_02_Door_01.BP_Doorway_02_Door_01'
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_Stairs': Can't find file.
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Doorway_Stairs': Can't find file.
+[2021.06.29-10.54.15:614][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Doorway_Stairs.BP_Doorway_Stairs'
+[2021.06.29-10.54.15:614][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_01': Can't find file.
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_01': Can't find file.
+[2021.06.29-10.54.15:615][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Glass_Door_01.BP_Glass_Door_01'
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_02': Can't find file.
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_02': Can't find file.
+[2021.06.29-10.54.15:615][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Glass_Door_02.BP_Glass_Door_02'
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_03': Can't find file.
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_03': Can't find file.
+[2021.06.29-10.54.15:615][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Glass_Door_03.BP_Glass_Door_03'
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_04': Can't find file.
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Door_04': Can't find file.
+[2021.06.29-10.54.15:615][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Glass_Door_04.BP_Glass_Door_04'
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Partition_01': Can't find file.
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Glass_Partition_01': Can't find file.
+[2021.06.29-10.54.15:615][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Glass_Partition_01.BP_Glass_Partition_01'
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Operating_Room_Door': Can't find file.
+[2021.06.29-10.54.15:615][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Operating_Room_Door': Can't find file.
+[2021.06.29-10.54.15:615][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Operating_Room_Door.BP_Operating_Room_Door'
+[2021.06.29-10.54.15:616][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Spline_01': Can't find file.
+[2021.06.29-10.54.15:616][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/BP_Spline_01': Can't find file.
+[2021.06.29-10.54.15:616][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/BP_Spline_01.BP_Spline_01'
+[2021.06.29-10.54.15:616][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/SM_Air_Conditioner_Unit': Can't find file.
+[2021.06.29-10.54.15:616][991]LogLinker: Warning: Failed to load '/Game/Hospital/Blueprints/SM_Air_Conditioner_Unit': Can't find file.
+[2021.06.29-10.54.15:616][991]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Blueprints/SM_Air_Conditioner_Unit.SM_Air_Conditioner_Unit'
+[2021.06.29-11.01.28:045][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_01': Can't find file.
+[2021.06.29-11.01.28:045][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_01': Can't find file.
+[2021.06.29-11.01.28:045][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Base_01.Mat_Base_01'
+[2021.06.29-11.01.28:045][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_02': Can't find file.
+[2021.06.29-11.01.28:045][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_02': Can't find file.
+[2021.06.29-11.01.28:046][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Base_02.Mat_Base_02'
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_03': Can't find file.
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_03': Can't find file.
+[2021.06.29-11.01.28:046][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Base_03.Mat_Base_03'
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_04': Can't find file.
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_04': Can't find file.
+[2021.06.29-11.01.28:046][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Base_04.Mat_Base_04'
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_05': Can't find file.
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Base_05': Can't find file.
+[2021.06.29-11.01.28:046][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Base_05.Mat_Base_05'
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Bulb_01_Base': Can't find file.
+[2021.06.29-11.01.28:046][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Bulb_01_Base': Can't find file.
+[2021.06.29-11.01.28:046][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Bulb_01_Base.Mat_Bulb_01_Base'
+[2021.06.29-11.01.28:047][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Bulb_02_Base': Can't find file.
+[2021.06.29-11.01.28:047][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Bulb_02_Base': Can't find file.
+[2021.06.29-11.01.28:047][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Bulb_02_Base.Mat_Bulb_02_Base'
+[2021.06.29-11.01.28:047][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Curtain_Base': Can't find file.
+[2021.06.29-11.01.28:047][998]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Curtain_Base': Can't find file.
+[2021.06.29-11.01.28:047][998]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Curtain_Base.Mat_Curtain_Base'
+[2021.06.29-11.01.28:380][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Decal_Base': Can't find file.
+[2021.06.29-11.01.28:380][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Decal_Base': Can't find file.
+[2021.06.29-11.01.28:380][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Decal_Base.Mat_Decal_Base'
+[2021.06.29-11.01.28:380][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_01': Can't find file.
+[2021.06.29-11.01.28:380][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_01': Can't find file.
+[2021.06.29-11.01.28:380][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Glass_01.Mat_Glass_01'
+[2021.06.29-11.01.28:380][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_02': Can't find file.
+[2021.06.29-11.01.28:380][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_02': Can't find file.
+[2021.06.29-11.01.28:381][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Glass_02.Mat_Glass_02'
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_03': Can't find file.
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_03': Can't find file.
+[2021.06.29-11.01.28:381][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Glass_03.Mat_Glass_03'
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_04': Can't find file.
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Glass_04': Can't find file.
+[2021.06.29-11.01.28:381][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Glass_04.Mat_Glass_04'
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_HDRISky': Can't find file.
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_HDRISky': Can't find file.
+[2021.06.29-11.01.28:381][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_HDRISky.Mat_HDRISky'
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Mirror': Can't find file.
+[2021.06.29-11.01.28:381][999]LogLinker: Warning: Failed to load '/Game/Hospital/Materials/Mat_Mirror': Can't find file.
+[2021.06.29-11.01.28:381][999]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Materials/Mat_Mirror.Mat_Mirror'
