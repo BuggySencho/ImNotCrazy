@@ -1851,3 +1851,1094 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.29-13.16.36:839][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05': Can't find file.
 [2021.06.29-13.16.36:839][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05': Can't find file.
 [2021.06.29-13.16.36:839][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05.SM_Stairs_Railing_05'
+[2021.06.29-13.18.19:927][754]LogActorFactory: Actor Factory created SM_Outdoor_Staircase_03
+[2021.06.29-13.18.20:953][875]LogActorFactory: Actor Factory created SM_Outdoor_Staircase_03
+[2021.06.29-13.18.31:836][170]Cmd: TRANSACTION UNDO
+[2021.06.29-13.18.31:836][170]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.18.41:311][208]LogActorFactory: Actor Factory created SM_Flight_of_Stairs
+[2021.06.29-13.18.42:315][324]LogActorFactory: Actor Factory created SM_Flight_of_Stairs
+[2021.06.29-13.18.46:079][772]Cmd: TRANSACTION UNDO
+[2021.06.29-13.18.46:079][772]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.18.46:098][772]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.19.10:221][588]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-13.19.27:309][617]LogActorFactory: Actor Factory created SM_Flight_of_Stairs_Overlapping
+[2021.06.29-13.19.30:379][983]LogActorFactory: Actor Factory created SM_Flight_of_Stairs_Overlapping
+[2021.06.29-13.19.30:699][ 18]Cmd: TRANSACTION UNDO
+[2021.06.29-13.19.30:699][ 18]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.19.30:717][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.30:718][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.19.36:771][664]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.19.37:752][780]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.19.38:005][807]Cmd: TRANSACTION UNDO
+[2021.06.29-13.19.38:006][807]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.38:024][807]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.19.38:944][857]LogActorFactory: Actor Factory created SM_Stairs_01
+[2021.06.29-13.19.39:392][908]LogActorFactory: Actor Factory created SM_Stairs_01
+[2021.06.29-13.19.39:605][930]Cmd: TRANSACTION UNDO
+[2021.06.29-13.19.39:605][930]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:620][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.19.39:621][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:621][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.19.39:621][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.39:621][930]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.19.40:079][974]LogActorFactory: Actor Factory created SM_Space_Under_the_Stairs
+[2021.06.29-13.19.41:450][136]LogActorFactory: Actor Factory created SM_Space_Under_the_Stairs
+[2021.06.29-13.19.43:205][343]Cmd: TRANSACTION UNDO
+[2021.06.29-13.19.43:205][343]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:224][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.19.43:225][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:225][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.19.43:225][343]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.19.43:225][343]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.19.55:763][754]LogActorFactory: Actor Factory created SM_Outdoor_Staircase_03
+[2021.06.29-13.20.10:923][866]LogActorFactory: Actor Factory created SM_Stairs_01
+[2021.06.29-13.20.12:545][ 59]LogActorFactory: Actor Factory created SM_Stairs_01
+[2021.06.29-13.20.22:010][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outdoor_Staircase_03)
+[2021.06.29-13.20.24:664][469]Cmd: DELETE
+[2021.06.29-13.20.24:664][469]Cmd: ACTOR DELETE
+[2021.06.29-13.20.24:668][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.20.24:672][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.29-13.20.24:679][469]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.06.29-13.20.25:161][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_01)
+[2021.06.29-13.20.35:609][773]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-13.20.36:575][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-13.20.56:020][714]LogActorFactory: Actor Factory created SM_Stairs_Railing_01
+[2021.06.29-13.20.56:770][803]LogActorFactory: Actor Factory created SM_Stairs_Railing_01
+[2021.06.29-13.22.21:067][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_01)
+[2021.06.29-13.22.32:776][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_01)
+[2021.06.29-13.23.07:822][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_01)
+[2021.06.29-13.23.14:751][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_21)
+[2021.06.29-13.23.15:847][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_2)
+[2021.06.29-13.23.27:705][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_01)
+[2021.06.29-13.23.49:410][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_01)
+[2021.06.29-13.23.50:533][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_01)
+[2021.06.29-13.23.53:405][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_21)
+[2021.06.29-13.23.55:128][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_2)
+[2021.06.29-13.24.19:300][961]Cmd: TRANSACTION UNDO
+[2021.06.29-13.24.19:300][961]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.25.03:085][158]Cmd: TRANSACTION UNDO
+[2021.06.29-13.25.03:085][158]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.25.34:517][868]LogEditorViewport: Clicking Background
+[2021.06.29-13.25.36:830][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_8)
+[2021.06.29-13.25.37:781][256]Cmd: DELETE
+[2021.06.29-13.25.37:781][256]Cmd: ACTOR DELETE
+[2021.06.29-13.25.37:785][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.25.37:788][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.29-13.25.37:794][256]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.29-13.25.39:401][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_4)
+[2021.06.29-13.25.39:852][500]Cmd: DELETE
+[2021.06.29-13.25.39:852][500]Cmd: ACTOR DELETE
+[2021.06.29-13.25.39:856][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.25.39:859][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.29-13.25.39:860][500]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.29-13.25.40:907][613]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.25.43:347][905]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.25.45:659][179]Cmd: TRANSACTION UNDO
+[2021.06.29-13.25.45:659][179]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:666][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.25.45:667][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:667][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.25.45:667][179]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.25.45:667][179]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.25.53:099][  6]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.06.29-13.25.54:364][157]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.06.29-13.26.31:958][631]Cmd: DELETE
+[2021.06.29-13.26.31:958][631]Cmd: ACTOR DELETE
+[2021.06.29-13.26.31:962][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.26.31:965][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.29-13.26.31:970][631]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.26.54:758][309]LogActorFactory: Actor Factory created SM_Railing_02
+[2021.06.29-13.26.58:129][713]LogActorFactory: Actor Factory created SM_Railing_02
+[2021.06.29-13.27.02:445][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.29-13.27.02:479][223]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap_Auto22785FB314C1E2D93B2B1958A289D20B1.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto2.umap'
+[2021.06.29-13.27.02:480][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.038
+[2021.06.29-13.27.02:480][223]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2021.06.29-13.27.02:740][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_7)
+[2021.06.29-13.27.03:102][293]Cmd: DELETE
+[2021.06.29-13.27.03:102][293]Cmd: ACTOR DELETE
+[2021.06.29-13.27.03:106][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.27.03:109][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-13.27.03:110][293]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.29-13.27.03:891][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Railing_02)
+[2021.06.29-13.27.04:253][427]Cmd: DELETE
+[2021.06.29-13.27.04:253][427]Cmd: ACTOR DELETE
+[2021.06.29-13.27.04:257][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.27.04:260][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-13.27.04:261][427]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.29-13.27.07:278][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_5)
+[2021.06.29-13.27.08:039][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_3)
+[2021.06.29-13.27.12:192][368]Cmd: DELETE
+[2021.06.29-13.27.12:192][368]Cmd: ACTOR DELETE
+[2021.06.29-13.27.12:196][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.27.12:199][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-13.27.12:201][368]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.29-13.27.12:659][419]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.27.14:541][644]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.27.23:553][710]Cmd: TRANSACTION UNDO
+[2021.06.29-13.27.23:553][710]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.27.23:872][719]Cmd: TRANSACTION UNDO
+[2021.06.29-13.27.23:872][719]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.27.24:255][745]Cmd: TRANSACTION UNDO
+[2021.06.29-13.27.24:255][745]LogEditorTransaction: Undo Set Rotation
+[2021.06.29-13.27.24:860][816]Cmd: TRANSACTION UNDO
+[2021.06.29-13.27.24:860][816]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.27.24:863][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:863][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.27.24:863][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:863][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.27.24:863][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:863][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.27.24:864][816]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.27.25:442][881]Cmd: TRANSACTION UNDO
+[2021.06.29-13.27.25:442][881]LogEditorTransaction: Undo Delete Actors
+[2021.06.29-13.27.30:462][479]Cmd: TRANSACTION UNDO
+[2021.06.29-13.27.30:462][479]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.29-13.27.32:872][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_3)
+[2021.06.29-13.27.42:074][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_6)
+[2021.06.29-13.28.00:823][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_3)
+[2021.06.29-13.28.05:405][615]Cmd: DELETE
+[2021.06.29-13.28.05:405][615]Cmd: ACTOR DELETE
+[2021.06.29-13.28.05:409][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.28.05:412][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.06.29-13.28.05:416][615]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.29-13.28.06:373][722]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.28.08:036][921]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.28.32:227][388]Cmd: DELETE
+[2021.06.29-13.28.32:227][388]Cmd: ACTOR DELETE
+[2021.06.29-13.28.32:231][388]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.28.32:235][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.29-13.28.32:237][388]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.06.29-13.28.33:423][518]LogActorFactory: Actor Factory created SM_Stairs_Railing_01
+[2021.06.29-13.28.36:220][853]LogActorFactory: Actor Factory created SM_Stairs_Railing_01
+[2021.06.29-13.28.53:073][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_2)
+[2021.06.29-13.29.03:095][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_01)
+[2021.06.29-13.29.12:530][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_5)
+[2021.06.29-13.29.13:547][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_5)
+[2021.06.29-13.29.14:511][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_Railing_3)
+[2021.06.29-13.29.18:791][884]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.29.22:602][339]LogActorFactory: Actor Factory created SM_Stairs_Railing_02
+[2021.06.29-13.29.34:705][786]Cmd: DELETE
+[2021.06.29-13.29.34:705][786]Cmd: ACTOR DELETE
+[2021.06.29-13.29.34:709][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.29.34:713][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.29-13.29.34:717][786]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.29.39:188][316]LogContentBrowser: Attempting asset rename: SM_Stairs_Railing_01 -> SM_Stairs_Railing_01
+[2021.06.29-13.29.41:539][588]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_01.SM_Stairs_Railing_01
+[2021.06.29-13.29.43:471][765]LogSlate: Window 'SM_Stairs_Railing_01' being destroyed
+[2021.06.29-13.29.43:477][765]LogSlate: Window 'SM_Stairs_Railing_01' being destroyed
+[2021.06.29-13.29.43:480][765]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.29.43:480][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.29.44:105][830]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_02.SM_Stairs_Railing_02
+[2021.06.29-13.29.45:995][ 12]LogSlate: Window 'SM_Stairs_Railing_02' being destroyed
+[2021.06.29-13.29.46:000][ 12]LogSlate: Window 'SM_Stairs_Railing_02' being destroyed
+[2021.06.29-13.29.46:003][ 12]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.29.46:003][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.29.49:072][363]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_03.SM_Stairs_Railing_03
+[2021.06.29-13.29.51:528][613]LogSlate: Window 'SM_Stairs_Railing_03' being destroyed
+[2021.06.29-13.29.51:533][613]LogSlate: Window 'SM_Stairs_Railing_03' being destroyed
+[2021.06.29-13.29.51:535][613]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.29.51:535][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.29.52:606][721]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_04.SM_Stairs_Railing_04
+[2021.06.29-13.29.54:187][865]LogSlate: Window 'SM_Stairs_Railing_04' being destroyed
+[2021.06.29-13.29.54:191][865]LogSlate: Window 'SM_Stairs_Railing_04' being destroyed
+[2021.06.29-13.29.54:194][865]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.29.54:194][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.29.55:071][956]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05.SM_Stairs_Railing_05
+[2021.06.29-13.29.56:552][ 87]LogSlate: Window 'SM_Stairs_Railing_05' being destroyed
+[2021.06.29-13.29.56:557][ 87]LogSlate: Window 'SM_Stairs_Railing_05' being destroyed
+[2021.06.29-13.29.56:560][ 87]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.29.56:560][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.30.47:555][832]LogActorFactory: Actor Factory created SM_Roof_03
+[2021.06.29-13.30.50:137][141]LogActorFactory: Actor Factory created SM_Roof_03
+[2021.06.29-13.30.53:107][470]LogActorFactory: Actor Factory created SM_Roof_02
+[2021.06.29-13.30.54:259][607]LogActorFactory: Actor Factory created SM_Roof_02
+[2021.06.29-13.31.01:321][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_02)
+[2021.06.29-13.31.02:685][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_03)
+[2021.06.29-13.31.03:539][556]Cmd: DELETE
+[2021.06.29-13.31.03:539][556]Cmd: ACTOR DELETE
+[2021.06.29-13.31.03:543][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.31.03:548][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.29-13.31.03:554][556]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.06.29-13.31.07:030][945]LogActorFactory: Actor Factory created SM_Roof_Stairs_02
+[2021.06.29-13.31.08:914][170]LogActorFactory: Actor Factory created SM_Roof_Stairs_02
+[2021.06.29-13.31.09:500][237]Cmd: TRANSACTION UNDO
+[2021.06.29-13.31.09:500][237]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:507][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.31.09:508][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:508][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.31.09:508][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.09:508][237]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.31.10:540][302]LogActorFactory: Actor Factory created SM_Roof_Stairs_03
+[2021.06.29-13.31.11:297][392]LogActorFactory: Actor Factory created SM_Roof_Stairs_03
+[2021.06.29-13.31.11:545][418]Cmd: TRANSACTION UNDO
+[2021.06.29-13.31.11:545][418]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.11:553][418]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.31.13:397][610]LogActorFactory: Actor Factory created SM_Roof_05
+[2021.06.29-13.31.15:578][871]LogActorFactory: Actor Factory created SM_Roof_05
+[2021.06.29-13.31.15:825][897]Cmd: TRANSACTION UNDO
+[2021.06.29-13.31.15:825][897]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.31.15:838][897]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.15:839][897]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.31.17:663][ 51]LogActorFactory: Actor Factory created SM_Roof_03
+[2021.06.29-13.31.18:311][128]LogActorFactory: Actor Factory created SM_Roof_03
+[2021.06.29-13.31.18:456][142]Cmd: TRANSACTION UNDO
+[2021.06.29-13.31.18:456][142]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:464][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.31.18:465][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:465][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.31.18:465][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.18:465][142]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.31.19:106][202]LogActorFactory: Actor Factory created SM_Roof_04
+[2021.06.29-13.31.19:638][265]LogActorFactory: Actor Factory created SM_Roof_04
+[2021.06.29-13.31.19:781][279]Cmd: TRANSACTION UNDO
+[2021.06.29-13.31.19:781][279]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.31.19:789][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:789][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.31.19:789][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:789][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.31.19:789][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:789][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.19:790][279]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.31.20:381][338]LogActorFactory: Actor Factory created SM_Roof_02
+[2021.06.29-13.31.20:780][385]LogActorFactory: Actor Factory created SM_Roof_02
+[2021.06.29-13.31.20:861][391]Cmd: TRANSACTION UNDO
+[2021.06.29-13.31.20:861][391]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:865][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.31.20:866][391]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.31.20:866][391]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.31.22:245][533]LogActorFactory: Actor Factory created SM_Roof_01
+[2021.06.29-13.31.29:402][391]LogActorFactory: Actor Factory created SM_Roof_01
+[2021.06.29-13.31.49:372][777]Cmd: DELETE
+[2021.06.29-13.31.49:372][777]Cmd: ACTOR DELETE
+[2021.06.29-13.31.49:376][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.31.49:380][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.29-13.31.49:384][777]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.31.49:888][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_02)
+[2021.06.29-13.31.51:059][974]Cmd: DELETE
+[2021.06.29-13.31.51:059][974]Cmd: ACTOR DELETE
+[2021.06.29-13.31.51:062][974]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.31.51:066][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.06.29-13.31.51:066][974]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.29-13.31.55:956][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-13.31.55:987][559]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap7A9A97ED44F53D447E1CE293FC8B9AC6.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.31.56:001][559]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.31.56:001][559]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.31.56:562][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.29-13.32.57:304][279]LogActorFactory: Actor Factory created SM_Outer_Wall_05
+[2021.06.29-13.32.58:319][400]LogActorFactory: Actor Factory created SM_Outer_Wall_05
+[2021.06.29-13.32.58:759][448]Cmd: TRANSACTION UNDO
+[2021.06.29-13.32.58:759][448]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.32.58:766][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:766][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.32.58:766][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.32.58:767][448]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.33.01:755][729]LogActorFactory: Actor Factory created SM_Outer_Wall_04
+[2021.06.29-13.33.02:169][778]LogActorFactory: Actor Factory created SM_Outer_Wall_04
+[2021.06.29-13.33.02:314][792]Cmd: TRANSACTION UNDO
+[2021.06.29-13.33.02:314][792]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.33.02:321][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.02:322][792]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.33.03:180][840]LogActorFactory: Actor Factory created SM_Outer_Wall_06
+[2021.06.29-13.33.04:022][940]LogActorFactory: Actor Factory created SM_Outer_Wall_06
+[2021.06.29-13.33.04:207][958]Cmd: TRANSACTION UNDO
+[2021.06.29-13.33.04:208][958]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:211][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.33.04:212][958]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.41.55:771][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.29-13.41.55:779][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.012
+[2021.06.29-13.51.55:663][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-13.51.55:670][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.010
+[2021.06.29-13.55.46:791][  9]LogActorFactory: Actor Factory created SM_Exit_01
+[2021.06.29-13.55.50:448][446]LogActorFactory: Actor Factory created SM_Exit_01
+[2021.06.29-13.55.57:422][277]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-13.56.14:215][279]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.SM_Exit_01_299.StaticMeshComponent0)
+[2021.06.29-13.56.14:373][298]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.SM_Exit_01_299.StaticMeshComponent0)
+[2021.06.29-13.56.20:584][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Entrance_Door_02)
+[2021.06.29-13.56.23:978][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exit_01)
+[2021.06.29-13.56.28:483][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_02)
+[2021.06.29-13.56.28:997][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_18)
+[2021.06.29-13.56.30:410][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-13.56.30:446][199]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMapDE8C377A4BEA3194650FA382BF588E86.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.56.30:460][199]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.56.30:460][199]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.56.31:790][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-13.56.33:601][574]LogEditorViewport: Clicking Background
+[2021.06.29-13.57.33:290][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_23)
+[2021.06.29-13.57.36:161][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_18)
+[2021.06.29-13.57.54:077][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_26)
+[2021.06.29-13.57.57:718][685]LogActorFactory: Actor Factory created SM_Floor_Ceiling_02
+[2021.06.29-13.57.58:227][745]LogActorFactory: Actor Factory created SM_Floor_Ceiling_02
+[2021.06.29-13.58.00:809][ 39]Cmd: DELETE
+[2021.06.29-13.58.00:809][ 39]Cmd: ACTOR DELETE
+[2021.06.29-13.58.00:813][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.58.00:816][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.29-13.58.00:821][ 39]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.58.01:349][ 95]LogActorFactory: Actor Factory created SM_Floor_Ceiling_03
+[2021.06.29-13.58.01:797][148]LogActorFactory: Actor Factory created SM_Floor_Ceiling_03
+[2021.06.29-13.58.03:669][356]Cmd: DELETE
+[2021.06.29-13.58.03:670][356]Cmd: ACTOR DELETE
+[2021.06.29-13.58.03:673][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.58.03:677][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.29-13.58.03:678][356]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.29-13.58.06:215][627]LogActorFactory: Actor Factory created SM_Floor_Ceiling_03
+[2021.06.29-13.58.06:471][657]LogActorFactory: Actor Factory created SM_Floor_Ceiling_03
+[2021.06.29-13.58.31:796][637]LogEditorViewport: Clicking Background
+[2021.06.29-13.58.32:374][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_03)
+[2021.06.29-13.58.35:207][ 42]LogEditorViewport: Clicking Background
+[2021.06.29-14.06.30:571][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.29-14.06.30:606][463]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap_Auto396816FC14B56C89644FA60958C43DC3A.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto3.umap'
+[2021.06.29-14.06.30:608][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.040
+[2021.06.29-14.06.30:608][463]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.06.29-14.11.44:390][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Entrance_Door_3)
+[2021.06.29-14.11.46:940][ 71]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-14.13.22:822][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-14.13.23:853][890]LogSlate: Window 'Save Content' being destroyed
+[2021.06.29-14.13.23:882][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.29-14.13.23:912][890]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap0716ADBA427B7F365A828280D94625DC.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-14.13.23:916][890]LogFileHelpers: Saving map 'StartupMap' took 0.037
+[2021.06.29-14.13.23:938][890]LogSlate: Window 'ImNotCrazy - Unreal Editor' being destroyed
+[2021.06.29-14.13.24:044][890]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-14.13.24:044][890]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-14.13.24:045][891]Cmd: QUIT_EDITOR
+[2021.06.29-14.13.24:045][891]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.29-14.13.24:051][891]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.29-14.13.24:058][891]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.29-14.13.24:058][891]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.29-14.13.24:058][891]LogAudio: Display: Audio Device unregistered from world 'StartupMap'.
+[2021.06.29-14.13.24:063][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-14.13.24:064][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-14.13.24:089][891]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.29-14.13.24:090][891]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.29-14.13.24:097][891]LogExit: Preparing to exit.
+[2021.06.29-14.13.24:577][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [000001239054B700] Windows
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [000001239054B600] Default__DeviceProfile
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [0000012390500B00] WindowsNoEditor
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [0000012390548C00] WindowsServer
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [0000012390503100] WindowsClient
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [000001239054B200] IOS
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [0000012390501100] iPadAir
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [0000012390549200] iPadAir2
+[2021.06.29-14.13.24:773][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4D00] IPadPro
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4E00] iPadAir3
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001239054AC00] iPadAir4
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7B00] iPadMini2
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390549500] iPadMini3
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6000] iPadMini4
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001239054A700] iPadMini5
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503200] iPhone6
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503300] iPodTouch6
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7E00] iPhone7
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5B00] iPodTouch7
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503700] iPhone5S
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4A00] iPhone6Plus
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503900] iPhone6S
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7200] iPhone6SPlus
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390500100] iPhone7Plus
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5A00] iPhoneSE
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390500F00] iPhone8
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7F00] iPhone8Plus
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503E00] iPhoneX
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6800] iPhoneXS
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503B00] iPhoneXSMax
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5F00] iPhoneXR
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502400] iPhone11
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4800] iPhone11Pro
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502800] iPhone11ProMax
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7500] iPhoneSE2
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390500700] iPhone12Mini
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6700] iPhone12
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501000] iPhone12Pro
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5900] iPhone12ProMax
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503A00] iPadPro105
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7700] iPadPro129
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390500300] iPadPro97
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5700] iPadPro2_129
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390500A00] iPad5
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6F00] iPad6
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502700] iPad7
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5000] iPad8
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502200] iPadPro11
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6B00] iPadPro2_11
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503C00] iPadPro3_129
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7100] iPadPro4_129
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501400] AppleTV
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6C00] AppleTV4K
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501500] TVOS
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5C00] Mac
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501800] MacClient
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B7800] MacNoEditor
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501900] MacServer
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5100] Linux
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501F00] LinuxAArch64
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390548B00] LinuxNoEditor
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58D200] LinuxAArch64NoEditor
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001239054A500] LinuxClient
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58C700] LinuxAArch64Client
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390548A00] LinuxServer
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58C600] LinuxAArch64Server
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390549F00] Android
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58C400] Android_Low
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390549A00] Android_Mid
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58DC00] Android_High
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390548500] Android_Default
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58D600] Android_Adreno4xx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390548D00] Android_Adreno5xx_Low
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58D100] Android_Adreno5xx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001239054A800] Android_Adreno6xx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58CD00] Android_Adreno6xx_Vulkan
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001239054AD00] Android_Mali_T6xx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [000001238F58D800] Android_Mali_T7xx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501C00] Android_Mali_T8xx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6500] Android_Mali_G71
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503600] Android_Mali_G72
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4600] Android_Mali_G72_Vulkan
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390500C00] Android_Mali_G76
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4B00] Android_Mali_G76_Vulkan
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501B00] Android_Mali_G77
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6200] Android_Mali_G77_Vulkan
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502300] Android_Vulkan_SM5
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5D00] Android_PowerVR_G6xxx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390501D00] Android_PowerVR_GT7xxx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B5800] Android_PowerVR_GE8xxx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390503D00] Android_PowerVR_GM9xxx
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4F00] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502900] Android_TegraK1
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [00000123904B4700] Android_Unknown_Vulkan
+[2021.06.29-14.13.24:774][891]LogDeviceProfile: Device profile begin destroy: [0000012390502000] Lumin
+[2021.06.29-14.13.24:775][891]LogDeviceProfile: Device profile begin destroy: [00000123904B6D00] Lumin_Desktop
+[2021.06.29-14.13.24:775][891]LogDeviceProfile: Device profile begin destroy: [0000012390503F00] HoloLens
+[2021.06.29-14.13.24:827][891]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-14.13.24:827][891]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-14.13.24:863][891]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.29-14.13.24:891][891]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-14.13.24:892][891]LogExit: Editor shut down
+[2021.06.29-14.13.24:894][891]LogExit: Transaction tracking system shut down
+[2021.06.29-14.13.25:335][891]LogExit: Object subsystem successfully closed.
+[2021.06.29-14.13.25:384][891]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.29-14.13.25:487][891]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (834)
+[2021.06.29-14.13.25:487][891]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (832)
+[2021.06.29-14.13.25:487][891]LogModuleManager: Shutting down and abandoning module SceneOutliner (830)
+[2021.06.29-14.13.25:487][891]LogModuleManager: Shutting down and abandoning module AddContentDialog (828)
+[2021.06.29-14.13.25:490][891]LogModuleManager: Shutting down and abandoning module WidgetCarousel (827)
+[2021.06.29-14.13.25:490][891]LogModuleManager: Shutting down and abandoning module EditorWidgets (824)
+[2021.06.29-14.13.25:490][891]LogModuleManager: Shutting down and abandoning module StatsViewer (822)
+[2021.06.29-14.13.25:491][891]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (820)
+[2021.06.29-14.13.25:491][891]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (818)
+[2021.06.29-14.13.25:492][891]LogModuleManager: Shutting down and abandoning module AutomationWorker (816)
+[2021.06.29-14.13.25:492][891]LogModuleManager: Shutting down and abandoning module SteamVREditor (814)
+[2021.06.29-14.13.25:492][891]LogModuleManager: Shutting down and abandoning module OculusMR (812)
+[2021.06.29-14.13.25:492][891]LogModuleManager: Shutting down and abandoning module TextureAlignMode (810)
+[2021.06.29-14.13.25:492][891]LogModuleManager: Shutting down and abandoning module BspMode (808)
+[2021.06.29-14.13.25:492][891]LogModuleManager: Shutting down and abandoning module GeometryMode (806)
+[2021.06.29-14.13.25:493][891]LogModuleManager: Shutting down and abandoning module GooglePADEditor (804)
+[2021.06.29-14.13.25:493][891]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (802)
+[2021.06.29-14.13.25:493][891]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (800)
+[2021.06.29-14.13.25:493][891]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (798)
+[2021.06.29-14.13.25:493][891]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (796)
+[2021.06.29-14.13.25:495][891]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (794)
+[2021.06.29-14.13.25:496][891]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (792)
+[2021.06.29-14.13.25:496][891]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (790)
+[2021.06.29-14.13.25:496][891]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (788)
+[2021.06.29-14.13.25:496][891]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (786)
+[2021.06.29-14.13.25:496][891]LogModuleManager: Shutting down and abandoning module WebMMedia (784)
+[2021.06.29-14.13.25:497][891]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (782)
+[2021.06.29-14.13.25:498][891]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (780)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module SequenceRecorder (779)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (776)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (774)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (772)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (770)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (768)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (766)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (764)
+[2021.06.29-14.13.25:499][891]LogModuleManager: Shutting down and abandoning module PlanarCut (762)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module CharacterAI (760)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (758)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (756)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (754)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (752)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module SmartSnapping (750)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module SessionServices (748)
+[2021.06.29-14.13.25:500][891]LogModuleManager: Shutting down and abandoning module MeshPaint (746)
+[2021.06.29-14.13.25:502][891]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (744)
+[2021.06.29-14.13.25:502][891]LogModuleManager: Shutting down and abandoning module FoliageEdit (742)
+[2021.06.29-14.13.25:503][891]LogModuleManager: Shutting down and abandoning module LandscapeEditor (740)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module MeshPaintMode (738)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (736)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module ActorPickerMode (734)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module PlacementMode (732)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module ViewportSnapping (730)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module ViewportInteraction (728)
+[2021.06.29-14.13.25:504][891]LogModuleManager: Shutting down and abandoning module ClothPainter (726)
+[2021.06.29-14.13.25:506][891]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (725)
+[2021.06.29-14.13.25:507][891]LogModuleManager: Shutting down and abandoning module LogVisualizer (722)
+[2021.06.29-14.13.25:508][891]LogModuleManager: Shutting down and abandoning module IntroTutorials (720)
+[2021.06.29-14.13.25:509][891]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (719)
+[2021.06.29-14.13.25:509][891]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (716)
+[2021.06.29-14.13.25:509][891]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (714)
+[2021.06.29-14.13.25:510][891]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (712)
+[2021.06.29-14.13.25:510][891]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (711)
+[2021.06.29-14.13.26:672][891]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (708)
+[2021.06.29-14.13.26:673][891]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (706)
+[2021.06.29-14.13.26:673][891]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (704)
+[2021.06.29-14.13.26:673][891]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (702)
+[2021.06.29-14.13.26:673][891]LogModuleManager: Shutting down and abandoning module TraceInsights (700)
+[2021.06.29-14.13.26:675][891]MemoryProfiler: Shutdown
+[2021.06.29-14.13.26:675][891]NetworkingProfiler: Shutdown
+[2021.06.29-14.13.26:675][891]LoadingProfiler: Shutdown
+[2021.06.29-14.13.26:676][891]TimingProfiler: Shutdown
+[2021.06.29-14.13.26:678][891]LogModuleManager: Shutting down and abandoning module TraceServices (699)
+[2021.06.29-14.13.26:680][891]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (696)
+[2021.06.29-14.13.26:680][891]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (694)
+[2021.06.29-14.13.26:680][891]LogModuleManager: Shutting down and abandoning module InputBindingEditor (692)
+[2021.06.29-14.13.26:680][891]LogModuleManager: Shutting down and abandoning module MergeActors (690)
+[2021.06.29-14.13.26:681][891]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (688)
+[2021.06.29-14.13.26:682][891]LogModuleManager: Shutting down and abandoning module LocalizationService (687)
+[2021.06.29-14.13.26:682][891]LogModuleManager: Shutting down and abandoning module HardwareTargeting (684)
+[2021.06.29-14.13.26:682][891]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (682)
+[2021.06.29-14.13.26:682][891]LogModuleManager: Shutting down and abandoning module UndoHistory (680)
+[2021.06.29-14.13.26:683][891]LogModuleManager: Shutting down and abandoning module XmlParser (678)
+[2021.06.29-14.13.26:683][891]LogModuleManager: Shutting down and abandoning module Blutility (676)
+[2021.06.29-14.13.26:683][891]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (674)
+[2021.06.29-14.13.26:683][891]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (673)
+[2021.06.29-14.13.26:683][891]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (670)
+[2021.06.29-14.13.26:684][891]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (669)
+[2021.06.29-14.13.26:684][891]LogModuleManager: Shutting down and abandoning module SettingsEditor (666)
+[2021.06.29-14.13.26:685][891]LogModuleManager: Shutting down and abandoning module ProjectLauncher (664)
+[2021.06.29-14.13.26:685][891]LogModuleManager: Shutting down and abandoning module SessionFrontend (662)
+[2021.06.29-14.13.26:685][891]LogModuleManager: Shutting down and abandoning module ProfilerClient (660)
+[2021.06.29-14.13.26:686][891]LogModuleManager: Shutting down and abandoning module DeviceManager (658)
+[2021.06.29-14.13.26:687][891]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (657)
+[2021.06.29-14.13.26:720][891]LogModuleManager: Shutting down and abandoning module AutomationController (654)
+[2021.06.29-14.13.26:720][891]LogModuleManager: Shutting down and abandoning module AutomationWindow (652)
+[2021.06.29-14.13.26:721][891]LogModuleManager: Shutting down and abandoning module Layers (650)
+[2021.06.29-14.13.26:723][891]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (648)
+[2021.06.29-14.13.26:723][891]LogModuleManager: Shutting down and abandoning module DetailCustomizations (646)
+[2021.06.29-14.13.26:723][891]LogModuleManager: Shutting down and abandoning module PackagesDialog (644)
+[2021.06.29-14.13.26:724][891]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (642)
+[2021.06.29-14.13.26:726][891]LogModuleManager: Shutting down and abandoning module Persona (640)
+[2021.06.29-14.13.26:726][891]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (639)
+[2021.06.29-14.13.26:726][891]LogModuleManager: Shutting down and abandoning module AnimGraph (637)
+[2021.06.29-14.13.26:727][891]LogModuleManager: Shutting down and abandoning module Kismet (634)
+[2021.06.29-14.13.26:728][891]LogModuleManager: Shutting down and abandoning module KismetWidgets (633)
+[2021.06.29-14.13.26:729][891]LogModuleManager: Shutting down and abandoning module GraphEditor (630)
+[2021.06.29-14.13.26:731][891]LogModuleManager: Shutting down and abandoning module StructViewer (628)
+[2021.06.29-14.13.26:731][891]LogModuleManager: Shutting down and abandoning module ClassViewer (626)
+[2021.06.29-14.13.26:731][891]LogModuleManager: Shutting down and abandoning module Toolbox (624)
+[2021.06.29-14.13.26:731][891]LogModuleManager: Shutting down and abandoning module ModuleUI (622)
+[2021.06.29-14.13.26:731][891]LogModuleManager: Shutting down and abandoning module OutputLog (620)
+[2021.06.29-14.13.26:734][891]LogModuleManager: Shutting down and abandoning module GammaUI (618)
+[2021.06.29-14.13.26:734][891]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2021.06.29-14.13.26:734][891]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2021.06.29-14.13.26:736][891]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2021.06.29-14.13.26:736][891]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2021.06.29-14.13.26:736][891]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2021.06.29-14.13.26:737][891]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2021.06.29-14.13.26:738][891]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2021.06.29-14.13.26:739][891]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2021.06.29-14.13.26:739][891]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2021.06.29-14.13.26:739][891]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (582)
+[2021.06.29-14.13.26:744][891]LogModuleManager: Shutting down and abandoning module ProfilerService (580)
+[2021.06.29-14.13.26:822][891]LogModuleManager: Shutting down and abandoning module TaskGraph (578)
+[2021.06.29-14.13.26:823][891]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (576)
+[2021.06.29-14.13.26:823][891]LogModuleManager: Shutting down and abandoning module MegascansPlugin (574)
+[2021.06.29-14.13.26:824][891]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (572)
+[2021.06.29-14.13.26:824][891]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (570)
+[2021.06.29-14.13.26:824][891]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (568)
+[2021.06.29-14.13.26:824][891]LogModuleManager: Shutting down and abandoning module CollectionManager (567)
+[2021.06.29-14.13.26:825][891]LogModuleManager: Shutting down and abandoning module OculusEditor (564)
+[2021.06.29-14.13.26:826][891]LogModuleManager: Shutting down and abandoning module OculusInput (562)
+[2021.06.29-14.13.26:826][891]LogModuleManager: Shutting down and abandoning module SQLiteSupport (560)
+[2021.06.29-14.13.26:826][891]LogModuleManager: Shutting down and abandoning module DatabaseSupport (558)
+[2021.06.29-14.13.26:826][891]LogModuleManager: Shutting down and abandoning module PluginBrowser (556)
+[2021.06.29-14.13.26:828][891]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (554)
+[2021.06.29-14.13.26:828][891]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (552)
+[2021.06.29-14.13.26:829][891]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (550)
+[2021.06.29-14.13.26:829][891]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (548)
+[2021.06.29-14.13.26:829][891]LogModuleManager: Shutting down and abandoning module CurveEditorTools (546)
+[2021.06.29-14.13.26:831][891]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (544)
+[2021.06.29-14.13.26:831][891]LogModuleManager: Shutting down and abandoning module CryptoKeys (542)
+[2021.06.29-14.13.26:831][891]LogModuleManager: Shutting down and abandoning module SynthesisEditor (540)
+[2021.06.29-14.13.26:831][891]LogModuleManager: Shutting down and abandoning module Synthesis (538)
+[2021.06.29-14.13.26:832][891]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (536)
+[2021.06.29-14.13.26:832][891]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (534)
+[2021.06.29-14.13.26:832][891]LogModuleManager: Shutting down and abandoning module ScreenshotTools (532)
+[2021.06.29-14.13.26:832][891]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (530)
+[2021.06.29-14.13.26:832][891]LogModuleManager: Shutting down and abandoning module GooglePAD (528)
+[2021.06.29-14.13.26:832][891]LogModuleManager: Shutting down and abandoning module EditableMesh (526)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (524)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module AudioCapture (522)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (521)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (516)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module AssetTags (514)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (512)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module AppleImageUtils (510)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module AndroidPermission (508)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (506)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (504)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module TemplateSequence (502)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module MediaCompositing (500)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module ImgMedia (498)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (496)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module MotoSynth (494)
+[2021.06.29-14.13.26:833][891]LogModuleManager: Shutting down and abandoning module MeshConversion (492)
+[2021.06.29-14.13.26:834][891]LogModuleManager: Shutting down and abandoning module DynamicMesh (490)
+[2021.06.29-14.13.26:834][891]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (488)
+[2021.06.29-14.13.26:835][891]LogModuleManager: Shutting down and abandoning module GeometricObjects (486)
+[2021.06.29-14.13.26:835][891]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (484)
+[2021.06.29-14.13.26:835][891]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (483)
+[2021.06.29-14.13.26:836][891]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (480)
+[2021.06.29-14.13.26:836][891]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (478)
+[2021.06.29-14.13.26:836][891]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (476)
+[2021.06.29-14.13.26:836][891]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (474)
+[2021.06.29-14.13.26:836][891]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (472)
+[2021.06.29-14.13.26:836][891]LogModuleManager: Shutting down and abandoning module ChaosNiagara (470)
+[2021.06.29-14.13.26:837][891]LogModuleManager: Shutting down and abandoning module FractureEditor (468)
+[2021.06.29-14.13.26:837][891]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (467)
+[2021.06.29-14.13.26:837][891]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (464)
+[2021.06.29-14.13.26:837][891]LogModuleManager: Shutting down and abandoning module BackChannel (462)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (460)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module AutomationUtils (458)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module AlembicImporter (456)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module AlembicLibrary (455)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module GeometryCache (454)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (453)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (448)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (446)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (444)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (442)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (440)
+[2021.06.29-14.13.26:838][891]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (438)
+[2021.06.29-14.13.26:841][891]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (436)
+[2021.06.29-14.13.26:841][891]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (434)
+[2021.06.29-14.13.26:842][891]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (432)
+[2021.06.29-14.13.26:842][891]LogModuleManager: Shutting down and abandoning module UObjectPlugin (430)
+[2021.06.29-14.13.26:842][891]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (428)
+[2021.06.29-14.13.26:842][891]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (426)
+[2021.06.29-14.13.26:843][891]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (424)
+[2021.06.29-14.13.26:843][891]LogModuleManager: Shutting down and abandoning module PluginUtils (422)
+[2021.06.29-14.13.26:844][891]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (420)
+[2021.06.29-14.13.26:845][891]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (418)
+[2021.06.29-14.13.26:847][891]LogModuleManager: Shutting down and abandoning module GitSourceControl (416)
+[2021.06.29-14.13.26:847][891]LogModuleManager: Shutting down and abandoning module SourceControl (415)
+[2021.06.29-14.13.26:848][891]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (412)
+[2021.06.29-14.13.26:848][891]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (410)
+[2021.06.29-14.13.26:848][891]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (408)
+[2021.06.29-14.13.26:848][891]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (406)
+[2021.06.29-14.13.26:848][891]LogModuleManager: Shutting down and abandoning module Paper2DEditor (404)
+[2021.06.29-14.13.26:850][891]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2021.06.29-14.13.26:850][891]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2021.06.29-14.13.26:850][891]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2021.06.29-14.13.26:851][891]LogModuleManager: Shutting down and abandoning module SQLiteCore (396)
+[2021.06.29-14.13.26:851][891]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (394)
+[2021.06.29-14.13.26:852][891]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (392)
+[2021.06.29-14.13.26:852][891]LogModuleManager: Shutting down and abandoning module FacialAnimation (390)
+[2021.06.29-14.13.26:852][891]LogModuleManager: Shutting down and abandoning module DataValidation (388)
+[2021.06.29-14.13.26:852][891]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (386)
+[2021.06.29-14.13.26:852][891]LogModuleManager: Shutting down and abandoning module LevelEditor (385)
+[2021.06.29-14.13.26:854][891]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (384)
+[2021.06.29-14.13.26:855][891]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (382)
+[2021.06.29-14.13.26:855][891]LogModuleManager: Shutting down and abandoning module MainFrame (380)
+[2021.06.29-14.13.26:855][891]LogModuleManager: Shutting down and abandoning module HotReload (379)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module ToolMenus (375)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module ContentBrowser (373)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module ContentBrowserData (372)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module TreeMap (369)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module SoundFields (366)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module SignificanceManager (364)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (362)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (360)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.06.29-14.13.26:856][891]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (352)
+[2021.06.29-14.13.26:857][891]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (350)
+[2021.06.29-14.13.26:857][891]LogModuleManager: Shutting down and abandoning module UdpMessaging (348)
+[2021.06.29-14.13.26:958][891]LogModuleManager: Shutting down and abandoning module TcpMessaging (346)
+[2021.06.29-14.13.27:059][891]LogModuleManager: Shutting down and abandoning module ActorSequence (344)
+[2021.06.29-14.13.27:059][891]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (342)
+[2021.06.29-14.13.27:059][891]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (340)
+[2021.06.29-14.13.27:060][891]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (338)
+[2021.06.29-14.13.27:060][891]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (336)
+[2021.06.29-14.13.27:060][891]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (334)
+[2021.06.29-14.13.27:060][891]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (332)
+[2021.06.29-14.13.27:061][891]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.06.29-14.13.27:061][891]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (330)
+[2021.06.29-14.13.27:061][891]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (328)
+[2021.06.29-14.13.27:061][891]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (326)
+[2021.06.29-14.13.27:061][891]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (324)
+[2021.06.29-14.13.27:061][891]LogModuleManager: Shutting down and abandoning module MagicLeapController (322)
+[2021.06.29-14.13.27:061][891]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.29-14.13.27:062][891]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (320)
+[2021.06.29-14.13.27:062][891]LogModuleManager: Shutting down and abandoning module MagicLeapAR (318)
+[2021.06.29-14.13.27:062][891]LogModuleManager: Shutting down and abandoning module AugmentedReality (317)
+[2021.06.29-14.13.27:062][891]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (314)
+[2021.06.29-14.13.27:062][891]LogModuleManager: Shutting down and abandoning module Niagara (312)
+[2021.06.29-14.13.27:063][891]LogModuleManager: Shutting down and abandoning module SignalProcessing (311)
+[2021.06.29-14.13.27:063][891]LogModuleManager: Shutting down and abandoning module NiagaraEditor (309)
+[2021.06.29-14.13.27:064][891]LogModuleManager: Shutting down and abandoning module NiagaraCore (306)
+[2021.06.29-14.13.27:064][891]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (304)
+[2021.06.29-14.13.27:064][891]LogModuleManager: Shutting down and abandoning module AnimationSharing (302)
+[2021.06.29-14.13.27:064][891]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (300)
+[2021.06.29-14.13.27:065][891]LogModuleManager: Shutting down and abandoning module Paper2D (298)
+[2021.06.29-14.13.27:065][891]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2021.06.29-14.13.27:065][891]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (294)
+[2021.06.29-14.13.27:109][891]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2021.06.29-14.13.27:109][891]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (290)
+[2021.06.29-14.13.27:109][891]LogModuleManager: Shutting down and abandoning module PacketHandler (288)
+[2021.06.29-14.13.27:109][891]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (286)
+[2021.06.29-14.13.27:109][891]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (284)
+[2021.06.29-14.13.27:110][891]LogModuleManager: Shutting down and abandoning module MediaAssets (282)
+[2021.06.29-14.13.27:110][891]LogModuleManager: Shutting down and abandoning module Overlay (280)
+[2021.06.29-14.13.27:110][891]LogModuleManager: Shutting down and abandoning module OverlayEditor (279)
+[2021.06.29-14.13.27:110][891]LogModuleManager: Shutting down and abandoning module VREditor (276)
+[2021.06.29-14.13.27:111][891]LogModuleManager: Shutting down and abandoning module StringTableEditor (274)
+[2021.06.29-14.13.27:111][891]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (272)
+[2021.06.29-14.13.27:112][891]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (270)
+[2021.06.29-14.13.27:113][891]LogModuleManager: Shutting down and abandoning module FunctionalTesting (268)
+[2021.06.29-14.13.27:113][891]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (266)
+[2021.06.29-14.13.27:114][891]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (265)
+[2021.06.29-14.13.27:114][891]LogModuleManager: Shutting down and abandoning module UMG (262)
+[2021.06.29-14.13.27:115][891]LogModuleManager: Shutting down and abandoning module UMGEditor (261)
+[2021.06.29-14.13.27:115][891]LogModuleManager: Shutting down and abandoning module MessageLog (259)
+[2021.06.29-14.13.27:115][891]LogModuleManager: Shutting down and abandoning module SlateReflector (254)
+[2021.06.29-14.13.27:118][891]LogModuleManager: Shutting down and abandoning module Slate (252)
+[2021.06.29-14.13.27:118][891]LogModuleManager: Shutting down and abandoning module SlateCore (250)
+[2021.06.29-14.13.27:119][891]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (248)
+[2021.06.29-14.13.27:119][891]LogModuleManager: Shutting down and abandoning module UnrealEd (246)
+[2021.06.29-14.13.27:119][891]LogModuleManager: Shutting down and abandoning module MRMesh (244)
+[2021.06.29-14.13.27:120][891]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (242)
+[2021.06.29-14.13.27:120][891]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (240)
+[2021.06.29-14.13.27:120][891]LogModuleManager: Shutting down and abandoning module XAudio2 (238)
+[2021.06.29-14.13.27:120][891]LogModuleManager: Shutting down and abandoning module Networking (236)
+[2021.06.29-14.13.27:120][891]LogModuleManager: Shutting down and abandoning module Core (234)
+[2021.06.29-14.13.27:120][891]LogModuleManager: Shutting down and abandoning module MaterialEditor (232)
+[2021.06.29-14.13.27:121][891]LogModuleManager: Shutting down and abandoning module MovieSceneTools (230)
+[2021.06.29-14.13.27:122][891]LogModuleManager: Shutting down and abandoning module CurveEditor (229)
+[2021.06.29-14.13.27:124][891]LogModuleManager: Shutting down and abandoning module Sequencer (227)
+[2021.06.29-14.13.27:126][891]LogModuleManager: Shutting down and abandoning module EditorStyle (226)
+[2021.06.29-14.13.27:127][891]LogModuleManager: Shutting down and abandoning module KismetCompiler (222)
+[2021.06.29-14.13.27:127][891]LogModuleManager: Shutting down and abandoning module MeshBuilder (220)
+[2021.06.29-14.13.27:127][891]LogModuleManager: Shutting down and abandoning module MeshUtilities (218)
+[2021.06.29-14.13.27:128][891]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (217)
+[2021.06.29-14.13.27:128][891]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (216)
+[2021.06.29-14.13.27:128][891]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (215)
+[2021.06.29-14.13.27:129][891]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (213)
+[2021.06.29-14.13.27:129][891]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (211)
+[2021.06.29-14.13.27:130][891]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (209)
+[2021.06.29-14.13.27:131][891]LogModuleManager: Shutting down and abandoning module MaterialBaking (205)
+[2021.06.29-14.13.27:131][891]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (200)
+[2021.06.29-14.13.27:131][891]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2021.06.29-14.13.27:132][891]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2021.06.29-14.13.27:132][891]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2021.06.29-14.13.27:134][891]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (193)
+[2021.06.29-14.13.27:135][891]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2021.06.29-14.13.27:135][891]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2021.06.29-14.13.27:136][891]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (187)
+[2021.06.29-14.13.27:136][891]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (185)
+[2021.06.29-14.13.27:136][891]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (183)
+[2021.06.29-14.13.27:136][891]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (181)
+[2021.06.29-14.13.27:136][891]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (179)
+[2021.06.29-14.13.27:137][891]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (177)
+[2021.06.29-14.13.27:137][891]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (175)
+[2021.06.29-14.13.27:137][891]LogModuleManager: Shutting down and abandoning module ImageWrapper (174)
+[2021.06.29-14.13.27:137][891]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (171)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (169)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (167)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (165)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (163)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (161)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (159)
+[2021.06.29-14.13.27:138][891]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (157)
+[2021.06.29-14.13.27:143][891]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (155)
+[2021.06.29-14.13.27:144][891]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (153)
+[2021.06.29-14.13.27:144][891]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (151)
+[2021.06.29-14.13.27:144][891]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (149)
+[2021.06.29-14.13.27:144][891]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (147)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (145)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (143)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (141)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (139)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (137)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (135)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (133)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module Messaging (131)
+[2021.06.29-14.13.27:154][891]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2021.06.29-14.13.27:157][891]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2021.06.29-14.13.27:172][891]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (125)
+[2021.06.29-14.13.27:172][891]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2021.06.29-14.13.27:172][891]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2021.06.29-14.13.27:172][891]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2021.06.29-14.13.27:173][891]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2021.06.29-14.13.27:173][891]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2021.06.29-14.13.27:173][891]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2021.06.29-14.13.27:173][891]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2021.06.29-14.13.27:174][891]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2021.06.29-14.13.27:174][891]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2021.06.29-14.13.27:174][891]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2021.06.29-14.13.27:174][891]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2021.06.29-14.13.27:175][891]LogHMD: Freeing OpenVRDLLHandle.
+[2021.06.29-14.13.27:175][891]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2021.06.29-14.13.27:175][891]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.06.29-14.13.27:175][891]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.06.29-14.13.27:176][891]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.06.29-14.13.27:176][891]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.06.29-14.13.27:176][891]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.06.29-14.13.27:180][891]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.06.29-14.13.27:181][891]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.06.29-14.13.27:207][891]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.06.29-14.13.27:207][891]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.29-14.13.27:207][891]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1356AF17-4314-5EFE-E8E9-F3A94B2EC5E4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=d4396b954ccc68af935a50b6e7a35652%7C93c219ccffa249b5868c052141aec60a%7Cab24334e-2bb1-4189-8c1c-8c7fcfbb9faf&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.29-14.13.27:207][891]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.06.29-14.13.27:210][891]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.06.29-14.13.27:212][891]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.06.29-14.13.27:214][891]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.06.29-14.13.27:215][891]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.06.29-14.13.27:215][891]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.06.29-14.13.27:215][891]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2021.06.29-14.13.27:215][891]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.06.29-14.13.27:216][891]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.06.29-14.13.27:217][891]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.06.29-14.13.27:217][891]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.06.29-14.13.27:218][891]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.06.29-14.13.27:218][891]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.06.29-14.13.27:218][891]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.06.29-14.13.27:218][891]LogXGEController: Cleaning working directory: C:/Users/Gebruiker/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.29-14.13.27:218][891]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.29-14.13.27:219][891]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.06.29-14.13.27:220][891]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.29-14.13.27:220][891]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.29-14.13.27:220][891]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.29-14.13.27:220][891]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.29-14.13.27:220][891]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.29-14.13.27:222][891]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.29-14.13.27:222][891]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.29-14.13.27:222][891]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.29-14.13.27:222][891]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.29-14.13.27:222][891]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.29-14.13.27:223][891]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.29-14.13.27:223][891]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.29-14.13.27:223][891]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.29-14.13.27:223][891]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.29-14.13.27:223][891]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.29-14.13.27:224][891]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.29-14.13.27:224][891]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.29-14.13.27:224][891]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.29-14.13.27:225][891]LogD3D11RHI: Shutdown
+[2021.06.29-14.13.27:225][891]LogD3D11RHI: CleanupD3DDevice
+[2021.06.29-14.13.27:248][891]LogExit: Exiting.
+[2021.06.29-14.13.27:267][891]Log file closed, 06/29/21 16:13:27
