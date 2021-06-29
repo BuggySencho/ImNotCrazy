@@ -1417,3 +1417,437 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.29-12.52.57:083][836]AssetCheck: New page: Asset Save: StartupMap
 [2021.06.29-12.52.57:083][836]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
 [2021.06.29-12.53.16:584][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-12.53.48:512][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Road_09)
+[2021.06.29-12.53.49:188][577]LogEditorViewport: Clicking Background
+[2021.06.29-12.55.13:072][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_11)
+[2021.06.29-12.55.14:871][217]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_11.SM_Outer_Wall_11
+[2021.06.29-12.55.15:407][218]LogRenderer: Reallocating scene render targets to support 1320x700 Format 26 NumSamples 1 (Frame:1).
+[2021.06.29-12.56.07:495][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_11)
+[2021.06.29-12.56.07:552][903]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.06.29-12.56.10:708][252]LogStaticMesh: Building static mesh SM_Outer_Wall_11...
+[2021.06.29-12.56.10:726][252]LogStaticMesh: Built static mesh [0.02s] /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_11.SM_Outer_Wall_11
+[2021.06.29-12.56.14:463][669]LogSlate: Window 'SM_Outer_Wall_11' being destroyed
+[2021.06.29-12.56.14:469][669]LogSlate: Window 'SM_Outer_Wall_11' being destroyed
+[2021.06.29-12.56.14:472][669]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-12.56.14:472][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-12.56.15:428][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_02)
+[2021.06.29-12.56.18:624][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_02)
+[2021.06.29-12.56.20:686][395]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_02.SM_Outer_Wall_02
+[2021.06.29-12.56.33:624][877]LogStaticMesh: Building static mesh SM_Outer_Wall_02...
+[2021.06.29-12.56.33:639][877]LogStaticMesh: Built static mesh [0.02s] /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_02.SM_Outer_Wall_02
+[2021.06.29-12.56.35:840][ 99]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Outer_Wall_02C5D5BB024E744F958669CEB3BB4C258C.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Outer_Wall_02.uasset'
+[2021.06.29-12.56.35:854][ 99]AssetCheck: New page: Asset Save: SM_Outer_Wall_02
+[2021.06.29-12.56.35:854][ 99]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_02.SM_Outer_Wall_02
+[2021.06.29-12.56.37:078][217]LogSlate: Window 'SM_Outer_Wall_02' being destroyed
+[2021.06.29-12.56.37:083][217]LogSlate: Window 'SM_Outer_Wall_02' being destroyed
+[2021.06.29-12.56.37:086][217]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-12.56.37:086][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-12.56.38:062][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_14)
+[2021.06.29-12.56.39:919][542]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_12.SM_Outer_Wall_12
+[2021.06.29-12.56.41:658][700]LogStaticMesh: Building static mesh SM_Outer_Wall_12...
+[2021.06.29-12.56.41:671][700]LogStaticMesh: Built static mesh [0.01s] /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_12.SM_Outer_Wall_12
+[2021.06.29-12.56.46:860][238]LogSlate: Window 'SM_Outer_Wall_12' being destroyed
+[2021.06.29-12.56.46:866][238]LogSlate: Window 'SM_Outer_Wall_12' being destroyed
+[2021.06.29-12.56.46:869][238]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-12.56.46:869][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-12.56.47:945][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_09)
+[2021.06.29-12.56.49:171][501]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_09.SM_Outer_Wall_09
+[2021.06.29-12.56.52:463][840]LogStaticMesh: Building static mesh SM_Outer_Wall_09...
+[2021.06.29-12.56.52:490][840]LogStaticMesh: Built static mesh [0.03s] /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_09.SM_Outer_Wall_09
+[2021.06.29-12.56.55:172][128]LogSlate: Window 'SM_Outer_Wall_09' being destroyed
+[2021.06.29-12.56.55:177][128]LogSlate: Window 'SM_Outer_Wall_09' being destroyed
+[2021.06.29-12.56.55:179][128]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-12.56.55:180][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-12.56.56:590][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_18)
+[2021.06.29-12.56.58:429][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.29-12.56.58:460][508]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap8F26C831448A189FA353438B4B0433FC.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-12.56.58:474][508]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-12.56.58:474][508]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-12.56.59:416][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.29-12.57.00:611][619]LogSlate: Window 'Save Content' being destroyed
+[2021.06.29-12.57.00:652][619]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Outer_Wall_09FC3A7B98495DA6DA6BF0E09879611E65.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Outer_Wall_09.uasset'
+[2021.06.29-12.57.00:666][619]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Outer_Wall_1138DB8EF84712ED35A5610DB728AF29D2.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Outer_Wall_11.uasset'
+[2021.06.29-12.57.00:678][619]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Outer_Wall_120E2EF40C4ADC6040A032D9A67195AB04.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Outer_Wall_12.uasset'
+[2021.06.29-12.57.00:687][619]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.29-12.57.00:687][619]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_11.SM_Outer_Wall_11
+[2021.06.29-12.57.00:687][619]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_12.SM_Outer_Wall_12
+[2021.06.29-12.57.00:687][619]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_09.SM_Outer_Wall_09
+[2021.06.29-12.57.22:185][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_09)
+[2021.06.29-12.57.23:456][725]LogEditorViewport: Clicking Background
+[2021.06.29-12.58.57:136][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_13)
+[2021.06.29-12.59.14:234][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_12)
+[2021.06.29-12.59.17:768][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_14)
+[2021.06.29-12.59.18:682][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_12)
+[2021.06.29-12.59.29:399][673]LogActorFactory: Actor Factory created SM_Outer_Wall_04
+[2021.06.29-12.59.30:261][775]LogActorFactory: Actor Factory created SM_Outer_Wall_04
+[2021.06.29-12.59.33:013][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_12)
+[2021.06.29-12.59.33:986][199]Cmd: DELETE
+[2021.06.29-12.59.33:986][199]Cmd: ACTOR DELETE
+[2021.06.29-12.59.33:989][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-12.59.33:992][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-12.59.33:998][199]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-12.59.34:485][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_13)
+[2021.06.29-12.59.34:641][272]Cmd: DELETE
+[2021.06.29-12.59.34:641][272]Cmd: ACTOR DELETE
+[2021.06.29-12.59.34:643][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-12.59.34:646][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.29-12.59.34:647][272]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.06.29-12.59.35:095][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-12.59.51:300][223]LogEditorViewport: Clicking Background
+[2021.06.29-12.59.52:077][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-12.59.55:478][720]LogEditorViewport: Clicking Background
+[2021.06.29-12.59.58:395][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.00.08:552][281]LogEditorViewport: Clicking Background
+[2021.06.29-13.00.11:374][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.00.25:331][287]LogEditorViewport: Clicking Background
+[2021.06.29-13.00.26:034][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.00.32:592][152]LogEditorViewport: Clicking Background
+[2021.06.29-13.00.40:751][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_15)
+[2021.06.29-13.00.42:224][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.00.46:293][787]LogEditorViewport: Clicking Background
+[2021.06.29-13.00.46:796][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.01.02:497][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.01.03:332][688]LogEditorViewport: Clicking Background
+[2021.06.29-13.01.12:533][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.01.15:006][ 74]LogEditorViewport: Clicking Background
+[2021.06.29-13.01.15:684][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.01.18:923][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_10)
+[2021.06.29-13.01.24:938][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-13.01.35:026][415]LogEditorViewport: Clicking Background
+[2021.06.29-13.02.53:148][862]LogActorFactory: Actor Factory created SM_Inner_Wall_Stairs_02
+[2021.06.29-13.02.54:078][973]LogActorFactory: Actor Factory created SM_Inner_Wall_Stairs_02
+[2021.06.29-13.03.08:153][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.29-13.03.09:582][744]Cmd: DELETE
+[2021.06.29-13.03.09:582][744]Cmd: ACTOR DELETE
+[2021.06.29-13.03.09:584][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.03.09:588][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.29-13.03.09:594][744]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.03.10:562][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.03.15:134][376]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Inner_Wall_Stairs_02.SM_Inner_Wall_Stairs_02
+[2021.06.29-13.03.26:714][546]LogStaticMesh: Building static mesh SM_Inner_Wall_Stairs_02...
+[2021.06.29-13.03.26:738][546]LogStaticMesh: Built static mesh [0.02s] /Game/Hospital/Meshes/Building/Wall/SM_Inner_Wall_Stairs_02.SM_Inner_Wall_Stairs_02
+[2021.06.29-13.04.03:407][ 39]Cmd: TRANSACTION UNDO
+[2021.06.29-13.04.03:407][ 39]LogEditorTransaction: Undo StaticMesh: Material changed
+[2021.06.29-13.04.17:810][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.04.26:298][681]LogEditorViewport: Clicking Background
+[2021.06.29-13.04.26:725][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.04.33:300][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_10)
+[2021.06.29-13.04.34:319][636]Cmd: DELETE
+[2021.06.29-13.04.34:319][636]Cmd: ACTOR DELETE
+[2021.06.29-13.04.34:322][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.04.34:326][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.29-13.04.34:330][636]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.06.29-13.04.34:882][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_15)
+[2021.06.29-13.04.35:644][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.04.39:355][231]LogEditorViewport: Clicking Background
+[2021.06.29-13.04.40:842][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.04.44:115][798]LogEditorViewport: Clicking Background
+[2021.06.29-13.04.48:462][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.04.51:727][707]LogEditorViewport: Clicking Background
+[2021.06.29-13.04.53:888][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_09)
+[2021.06.29-13.04.59:153][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_02)
+[2021.06.29-13.05.00:338][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_11)
+[2021.06.29-13.05.01:073][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_14)
+[2021.06.29-13.05.06:943][505]Cmd: DELETE
+[2021.06.29-13.05.06:943][505]Cmd: ACTOR DELETE
+[2021.06.29-13.05.06:946][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.05.06:949][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.29-13.05.06:952][505]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.29-13.05.08:697][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.05.45:066][206]LogSlate: Window 'SM_Inner_Wall_Stairs_02' being destroyed
+[2021.06.29-13.05.45:071][206]LogSlate: Window 'SM_Inner_Wall_Stairs_02' being destroyed
+[2021.06.29-13.05.45:074][206]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.05.45:074][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.05.46:620][388]LogEditorViewport: Clicking Background
+[2021.06.29-13.06.08:293][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-13.06.09:358][616]LogSlate: Window 'Save Content' being destroyed
+[2021.06.29-13.06.09:397][616]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Inner_Wall_Stairs_02B667B0324E6C2935476846B4676EB2D0.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Inner_Wall_Stairs_02.uasset'
+[2021.06.29-13.06.09:401][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.29-13.06.09:428][616]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap1B113D1F4A6978BF3880E0A2169D440B.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.06.09:433][616]LogFileHelpers: Saving map 'StartupMap' took 0.035
+[2021.06.29-13.06.09:443][616]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.29-13.06.09:443][616]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.06.09:443][616]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Inner_Wall_Stairs_02.SM_Inner_Wall_Stairs_02
+[2021.06.29-13.06.14:179][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.06.18:864][740]LogEditorViewport: Clicking Background
+[2021.06.29-13.06.39:427][141]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.06.40:799][305]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.06.52:759][718]Cmd: DELETE
+[2021.06.29-13.06.52:759][718]Cmd: ACTOR DELETE
+[2021.06.29-13.06.52:762][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.06.52:765][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-13.06.52:770][718]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.06.29-13.06.54:377][892]LogActorFactory: Actor Factory created SM_Outer_Wall_09
+[2021.06.29-13.06.55:490][ 25]LogActorFactory: Actor Factory created SM_Outer_Wall_09
+[2021.06.29-13.06.56:112][ 96]Cmd: DELETE
+[2021.06.29-13.06.56:112][ 96]Cmd: ACTOR DELETE
+[2021.06.29-13.06.56:114][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.06.56:118][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.29-13.06.56:119][ 96]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.29-13.06.57:130][208]LogActorFactory: Actor Factory created SM_Outer_Wall_08
+[2021.06.29-13.06.58:011][313]LogActorFactory: Actor Factory created SM_Outer_Wall_08
+[2021.06.29-13.06.58:115][322]Cmd: DELETE
+[2021.06.29-13.06.58:115][322]Cmd: ACTOR DELETE
+[2021.06.29-13.06.58:118][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.06.58:121][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.29-13.06.58:122][322]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.29-13.06.59:218][444]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.07.00:582][607]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.07.00:723][620]Cmd: DELETE
+[2021.06.29-13.07.00:723][620]Cmd: ACTOR DELETE
+[2021.06.29-13.07.00:726][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.07.00:729][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.29-13.07.00:730][620]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.29-13.07.05:513][139]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_02
+[2021.06.29-13.07.09:004][555]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_02
+[2021.06.29-13.07.09:279][584]Cmd: DELETE
+[2021.06.29-13.07.09:279][584]Cmd: ACTOR DELETE
+[2021.06.29-13.07.09:281][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.07.09:285][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.29-13.07.09:287][584]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.29-13.07.13:192][ 28]LogActorFactory: Actor Factory created SM_Outer_Wall_13
+[2021.06.29-13.07.14:457][179]LogActorFactory: Actor Factory created SM_Outer_Wall_13
+[2021.06.29-13.07.15:258][271]Cmd: DELETE
+[2021.06.29-13.07.15:258][271]Cmd: ACTOR DELETE
+[2021.06.29-13.07.15:261][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.07.15:264][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.29-13.07.15:266][271]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.29-13.07.39:866][585]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_02
+[2021.06.29-13.07.40:747][690]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_02
+[2021.06.29-13.07.58:162][757]LogEditorViewport: Clicking Background
+[2021.06.29-13.07.59:299][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.08.02:365][257]LogEditorViewport: Clicking Background
+[2021.06.29-13.08.04:434][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.08.10:384][215]LogEditorViewport: Clicking Background
+[2021.06.29-13.08.13:161][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_02)
+[2021.06.29-13.08.18:969][238]LogEditorViewport: Clicking Background
+[2021.06.29-13.08.31:224][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_3)
+[2021.06.29-13.08.34:590][272]LogEditorViewport: Clicking Background
+[2021.06.29-13.08.42:714][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_4)
+[2021.06.29-13.08.47:017][755]Cmd: DELETE
+[2021.06.29-13.08.47:017][755]Cmd: ACTOR DELETE
+[2021.06.29-13.08.47:020][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.08.47:023][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.29-13.08.47:029][755]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.08.48:966][969]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_03
+[2021.06.29-13.08.49:648][ 50]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_03
+[2021.06.29-13.09.02:022][521]LogEditorViewport: Clicking Background
+[2021.06.29-13.09.02:974][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_03)
+[2021.06.29-13.09.05:488][933]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.29-13.09.11:482][647]LogEditorViewport: Clicking Background
+[2021.06.29-13.09.12:535][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_03)
+[2021.06.29-13.09.15:968][181]LogEditorViewport: Clicking Background
+[2021.06.29-13.09.18:102][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.29-13.09.18:132][435]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap648264E64A23EFC7A3C98A8D683F1A0A.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.09.18:146][435]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.09.18:146][435]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.09.19:049][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.29-13.09.23:263][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.09.33:334][180]LogActorFactory: Actor Factory created SM_Inner_Wall_Stairs_01
+[2021.06.29-13.09.34:230][286]LogActorFactory: Actor Factory created SM_Inner_Wall_Stairs_01
+[2021.06.29-13.09.34:765][346]Cmd: TRANSACTION UNDO
+[2021.06.29-13.09.34:765][346]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.09.34:782][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:782][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.09.34:783][346]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.09.35:574][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_Stairs_02)
+[2021.06.29-13.09.46:963][746]LogEditorViewport: Clicking Background
+[2021.06.29-13.09.56:012][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_4)
+[2021.06.29-13.09.56:644][903]LogEditorViewport: Clicking Background
+[2021.06.29-13.09.57:747][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_4)
+[2021.06.29-13.10.12:954][886]LogEditorViewport: Clicking Background
+[2021.06.29-13.10.15:292][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_09)
+[2021.06.29-13.10.17:038][372]Cmd: DELETE
+[2021.06.29-13.10.17:038][372]Cmd: ACTOR DELETE
+[2021.06.29-13.10.17:042][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.10.17:045][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-13.10.17:050][372]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.29-13.10.21:574][886]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.10.23:022][ 59]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.10.25:271][313]Cmd: TRANSACTION UNDO
+[2021.06.29-13.10.25:271][313]LogEditorTransaction: Undo Create Actors
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_24.BodySetup_16 when we are unable to.
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_25.BodySetup_17 when we are unable to.
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_26.BodySetup_18 when we are unable to.
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:283][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_27.BodySetup_19 when we are unable to.
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_28.BodySetup_20 when we are unable to.
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_29.BodySetup_21 when we are unable to.
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_30.BodySetup_22 when we are unable to.
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31' invalid (640 verts, 0 indices).
+[2021.06.29-13.10.25:284][313]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_31.BodySetup_23 when we are unable to.
+[2021.06.29-13.10.25:681][325]Cmd: TRANSACTION UNDO
+[2021.06.29-13.10.25:681][325]LogEditorTransaction: Undo Delete Actors
+[2021.06.29-13.10.26:664][432]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Outer_Wall_09)
+[2021.06.29-13.10.29:951][805]Cmd: DELETE
+[2021.06.29-13.10.29:951][805]Cmd: ACTOR DELETE
+[2021.06.29-13.10.29:955][805]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.10.29:958][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.29-13.10.29:960][805]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.29-13.10.32:206][ 51]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.10.32:903][134]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.29-13.10.39:055][851]LogEditorViewport: Clicking Background
+[2021.06.29-13.10.40:750][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.29-13.10.40:779][ 52]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap2DAEBBE9474563ECB52BFE8A41778FCD.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.10.40:791][ 52]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.10.40:791][ 52]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.10.42:179][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_07)
+[2021.06.29-13.10.44:159][441]LogActorFactory: Actor Factory created SM_Outer_Wall_08
+[2021.06.29-13.10.45:022][543]LogActorFactory: Actor Factory created SM_Outer_Wall_08
+[2021.06.29-13.11.05:030][896]Cmd: DELETE
+[2021.06.29-13.11.05:030][896]Cmd: ACTOR DELETE
+[2021.06.29-13.11.05:033][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.11.05:037][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-13.11.05:041][896]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.29-13.11.05:983][997]LogActorFactory: Actor Factory created SM_Outer_Wall_09
+[2021.06.29-13.11.06:431][ 50]LogActorFactory: Actor Factory created SM_Outer_Wall_09
+[2021.06.29-13.11.16:333][202]LogEditorViewport: Clicking Background
+[2021.06.29-13.11.18:050][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.29-13.11.18:079][406]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMapBAB3171244FD7BF6C16BA38BA11B5E6A.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.11.18:091][406]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.11.18:091][406]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.11.25:773][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.29-13.11.57:175][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_07)
+[2021.06.29-13.12.00:841][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_07)
+[2021.06.29-13.12.07:852][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_10)
+[2021.06.29-13.12.11:310][193]LogEditorViewport: Clicking Background
+[2021.06.29-13.12.13:815][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_8)
+[2021.06.29-13.12.16:643][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Road_08)
+[2021.06.29-13.12.17:923][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_6)
+[2021.06.29-13.12.18:435][ 33]LogEditorViewport: Clicking Background
+[2021.06.29-13.12.20:833][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.29-13.12.20:865][318]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMapF1C5D6424A766DF179E95A9EE6034703.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.12.20:877][318]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.12.20:877][318]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.12.22:803][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_8)
+[2021.06.29-13.12.27:524][105]LogEditorViewport: Clicking Background
+[2021.06.29-13.12.33:220][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_8)
+[2021.06.29-13.12.34:611][936]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_07.SM_Outer_Wall_07
+[2021.06.29-13.12.46:084][940]LogStaticMesh: Building static mesh SM_Outer_Wall_07...
+[2021.06.29-13.12.46:099][940]LogStaticMesh: Built static mesh [0.02s] /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_07.SM_Outer_Wall_07
+[2021.06.29-13.12.48:310][169]LogSlate: Window 'SM_Outer_Wall_07' being destroyed
+[2021.06.29-13.12.48:315][169]LogSlate: Window 'SM_Outer_Wall_07' being destroyed
+[2021.06.29-13.12.48:318][169]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.12.48:318][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.12.50:295][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_08)
+[2021.06.29-13.12.51:945][581]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_08.SM_Outer_Wall_08
+[2021.06.29-13.12.54:026][784]LogStaticMesh: Building static mesh SM_Outer_Wall_08...
+[2021.06.29-13.12.54:050][784]LogStaticMesh: Built static mesh [0.02s] /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_08.SM_Outer_Wall_08
+[2021.06.29-13.12.54:941][876]LogSlate: Window 'SM_Outer_Wall_08' being destroyed
+[2021.06.29-13.12.54:946][876]LogSlate: Window 'SM_Outer_Wall_08' being destroyed
+[2021.06.29-13.12.54:949][876]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-13.12.54:949][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-13.12.56:407][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.29-13.12.57:384][ 40]LogSlate: Window 'Save Content' being destroyed
+[2021.06.29-13.12.57:427][ 40]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Outer_Wall_071DE5B4B14D06049BF606D8A96D749B11.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Outer_Wall_07.uasset'
+[2021.06.29-13.12.57:442][ 40]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Outer_Wall_08447F920E4261A46CF820EF8369686C2C.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Meshes/Building/Wall/SM_Outer_Wall_08.uasset'
+[2021.06.29-13.12.57:446][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.29-13.12.57:474][ 40]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMapCC5E7A164EB886A0350B52BB3F5BC0B0.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.12.57:479][ 40]LogFileHelpers: Saving map 'StartupMap' took 0.036
+[2021.06.29-13.12.57:486][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.29-13.12.57:486][ 40]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.12.57:486][ 40]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_07.SM_Outer_Wall_07
+[2021.06.29-13.12.57:486][ 40]LogContentValidation: Display: Validating StaticMesh /Game/Hospital/Meshes/Building/Wall/SM_Outer_Wall_08.SM_Outer_Wall_08
+[2021.06.29-13.12.59:193][243]LogEditorViewport: Clicking Background
+[2021.06.29-13.13.11:261][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_9)
+[2021.06.29-13.13.19:825][195]LogEditorViewport: Clicking Background
+[2021.06.29-13.13.23:811][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_11)
+[2021.06.29-13.13.30:820][509]LogEditorViewport: Clicking Background
+[2021.06.29-13.13.32:381][696]Cmd: TRANSACTION UNDO
+[2021.06.29-13.13.32:381][696]LogEditorTransaction: Undo Clicking Background
+[2021.06.29-13.13.32:879][710]Cmd: TRANSACTION UNDO
+[2021.06.29-13.13.32:879][710]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.13.33:956][838]Cmd: TRANSACTION UNDO
+[2021.06.29-13.13.33:956][838]LogEditorTransaction: Undo Move Actors
+[2021.06.29-13.13.34:842][944]LogEditorViewport: Clicking Background
+[2021.06.29-13.13.42:721][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Entrance_Door_02)
+[2021.06.29-13.13.45:664][235]LogEditorViewport: Clicking Background
+[2021.06.29-13.13.49:300][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.06.29-13.13.49:332][669]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/StartupMap4491BD93406F4D35E5963CA7D4E07EC5.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.06.29-13.13.49:345][669]AssetCheck: New page: Asset Save: StartupMap
+[2021.06.29-13.13.49:345][669]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.06.29-13.14.13:361][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_Stairs_02)
+[2021.06.29-13.14.14:275][654]LogEditorViewport: Clicking Background
+[2021.06.29-13.15.52:764][425]LogActorFactory: Actor Factory created SM_Inner_Wall_Stairs_01
+[2021.06.29-13.15.54:227][600]LogActorFactory: Actor Factory created SM_Inner_Wall_Stairs_01
+[2021.06.29-13.15.56:159][827]Cmd: DELETE
+[2021.06.29-13.15.56:159][827]Cmd: ACTOR DELETE
+[2021.06.29-13.15.56:162][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.29-13.15.56:166][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.29-13.15.56:170][827]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.29-13.16.36:499][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Flight_of_Stairs': Can't find file.
+[2021.06.29-13.16.36:499][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Flight_of_Stairs': Can't find file.
+[2021.06.29-13.16.36:499][885]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Flight_of_Stairs.SM_Flight_of_Stairs'
+[2021.06.29-13.16.36:500][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Flight_of_Stairs_Overlapping': Can't find file.
+[2021.06.29-13.16.36:500][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Flight_of_Stairs_Overlapping': Can't find file.
+[2021.06.29-13.16.36:500][885]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Flight_of_Stairs_Overlapping.SM_Flight_of_Stairs_Overlapping'
+[2021.06.29-13.16.36:500][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_01': Can't find file.
+[2021.06.29-13.16.36:500][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_01': Can't find file.
+[2021.06.29-13.16.36:500][885]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_01.SM_Outdoor_Staircase_01'
+[2021.06.29-13.16.36:501][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_02': Can't find file.
+[2021.06.29-13.16.36:501][885]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_02': Can't find file.
+[2021.06.29-13.16.36:501][885]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_02.SM_Outdoor_Staircase_02'
+[2021.06.29-13.16.36:835][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_03': Can't find file.
+[2021.06.29-13.16.36:835][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_03': Can't find file.
+[2021.06.29-13.16.36:836][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_03.SM_Outdoor_Staircase_03'
+[2021.06.29-13.16.36:836][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_04': Can't find file.
+[2021.06.29-13.16.36:836][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_04': Can't find file.
+[2021.06.29-13.16.36:836][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_04.SM_Outdoor_Staircase_04'
+[2021.06.29-13.16.36:836][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_05': Can't find file.
+[2021.06.29-13.16.36:836][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_05': Can't find file.
+[2021.06.29-13.16.36:836][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_05.SM_Outdoor_Staircase_05'
+[2021.06.29-13.16.36:836][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_06': Can't find file.
+[2021.06.29-13.16.36:836][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_06': Can't find file.
+[2021.06.29-13.16.36:836][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_06.SM_Outdoor_Staircase_06'
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_07': Can't find file.
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_07': Can't find file.
+[2021.06.29-13.16.36:837][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_07.SM_Outdoor_Staircase_07'
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_08': Can't find file.
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_08': Can't find file.
+[2021.06.29-13.16.36:837][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Outdoor_Staircase_08.SM_Outdoor_Staircase_08'
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Railing_01': Can't find file.
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Railing_01': Can't find file.
+[2021.06.29-13.16.36:837][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Railing_01.SM_Railing_01'
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Railing_02': Can't find file.
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Railing_02': Can't find file.
+[2021.06.29-13.16.36:837][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Railing_02.SM_Railing_02'
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Space_Under_the_Stairs': Can't find file.
+[2021.06.29-13.16.36:837][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Space_Under_the_Stairs': Can't find file.
+[2021.06.29-13.16.36:838][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Space_Under_the_Stairs.SM_Space_Under_the_Stairs'
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_01': Can't find file.
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_01': Can't find file.
+[2021.06.29-13.16.36:838][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_01.SM_Stairs_01'
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_01': Can't find file.
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_01': Can't find file.
+[2021.06.29-13.16.36:838][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_01.SM_Stairs_Railing_01'
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_02': Can't find file.
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_02': Can't find file.
+[2021.06.29-13.16.36:838][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_02.SM_Stairs_Railing_02'
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_03': Can't find file.
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_03': Can't find file.
+[2021.06.29-13.16.36:838][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_03.SM_Stairs_Railing_03'
+[2021.06.29-13.16.36:838][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_04': Can't find file.
+[2021.06.29-13.16.36:839][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_04': Can't find file.
+[2021.06.29-13.16.36:839][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_04.SM_Stairs_Railing_04'
+[2021.06.29-13.16.36:839][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05': Can't find file.
+[2021.06.29-13.16.36:839][886]LogLinker: Warning: Failed to load '/Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05': Can't find file.
+[2021.06.29-13.16.36:839][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hospital/Meshes/Building/Stairs/SM_Stairs_Railing_05.SM_Stairs_Railing_05'
