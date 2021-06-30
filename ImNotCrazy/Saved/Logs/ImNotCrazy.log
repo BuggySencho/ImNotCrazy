@@ -6019,3 +6019,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-23.55.10:449][193]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.30-23.55.10:449][193]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
 [2021.06.30-23.55.10:449][193]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-23.55.51:098][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.06.30-23.55.52:426][410]LogSlate: Window 'Save Content' being destroyed
+[2021.06.30-23.55.52:470][410]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/SM_Floor_Ceiling_01667757604CE169DEA96B6AA2578E5B15.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Hospital/Meshes/Building/Wall/SM_Floor_Ceiling_01.uasset'
+[2021.06.30-23.55.52:486][410]AssetCheck: New page: Asset Save: SM_Floor_Ceiling_01
+[2021.06.30-23.55.52:486][410]LogContentValidation: Display: Validating StaticMesh /Game/ImNotCrazy/Hospital/Meshes/Building/Wall/SM_Floor_Ceiling_01.SM_Floor_Ceiling_01
