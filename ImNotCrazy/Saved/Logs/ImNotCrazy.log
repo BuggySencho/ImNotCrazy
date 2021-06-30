@@ -4765,3 +4765,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-10.21.44:734][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2021.06.30-10.21.46:038][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2021.06.30-10.21.46:193][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.30-10.22.52:047][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_47)
+[2021.06.30-10.22.53:181][933]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-10.22.54:274][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_56)
+[2021.06.30-10.23.08:610][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_47)
+[2021.06.30-10.23.23:252][466]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Inst_Plastered_Wall_04FA807D2C4EF7A702365594B32FDCBD1B.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/Hospital/Materials/Instance/Inst_Plastered_Wall_04.uasset'
+[2021.06.30-10.23.23:265][466]AssetCheck: New page: Asset Save: Inst_Plastered_Wall_04
+[2021.06.30-10.23.23:265][466]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Hospital/Materials/Instance/Inst_Plastered_Wall_04.Inst_Plastered_Wall_04
+[2021.06.30-10.23.26:154][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.06.30-10.23.27:278][797]LogSlate: Window 'Save Content' being destroyed
+[2021.06.30-10.23.27:310][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.06.30-10.23.27:441][797]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyD281983940A7F421F2014FA93BFBB74C.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.23.27:445][797]LogFileHelpers: Saving map 'Jiraphat_IAMNotCrazy' took 0.138
+[2021.06.30-10.23.27:454][797]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.06.30-10.23.27:454][797]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
