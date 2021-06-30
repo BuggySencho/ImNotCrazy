@@ -4779,3 +4779,243 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-10.23.27:445][797]LogFileHelpers: Saving map 'Jiraphat_IAMNotCrazy' took 0.138
 [2021.06.30-10.23.27:454][797]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
 [2021.06.30-10.23.27:454][797]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.23.47:895][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.23.51:482][394]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-10.23.53:574][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-10.24.05:196][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.24.08:363][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.24.09:160][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.24.10:072][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_48)
+[2021.06.30-10.24.10:556][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-10.24.11:336][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.24.12:043][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_48)
+[2021.06.30-10.24.17:061][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_48)
+[2021.06.30-10.24.17:717][466]Cmd: DELETE
+[2021.06.30-10.24.17:717][466]Cmd: ACTOR DELETE
+[2021.06.30-10.24.17:725][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.24.17:729][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.30-10.24.17:732][466]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.06.30-10.24.28:041][620]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_03
+[2021.06.30-10.24.29:622][809]LogActorFactory: Actor Factory created SM_Outer_Wall_Stairs_03
+[2021.06.30-10.24.30:602][922]Cmd: DELETE
+[2021.06.30-10.24.30:602][922]Cmd: ACTOR DELETE
+[2021.06.30-10.24.30:609][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.24.30:613][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-10.24.30:615][922]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-10.24.34:433][357]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.30-10.24.35:277][457]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.30-10.24.35:373][464]Cmd: DELETE
+[2021.06.30-10.24.35:373][464]Cmd: ACTOR DELETE
+[2021.06.30-10.24.35:381][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.24.35:385][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.30-10.24.35:386][464]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.30-10.24.36:417][571]LogActorFactory: Actor Factory created SM_Outer_Wall_09
+[2021.06.30-10.24.37:132][656]LogActorFactory: Actor Factory created SM_Outer_Wall_09
+[2021.06.30-10.24.37:221][663]Cmd: DELETE
+[2021.06.30-10.24.37:221][663]Cmd: ACTOR DELETE
+[2021.06.30-10.24.37:229][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.24.37:233][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.30-10.24.37:233][663]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.30-10.24.38:308][778]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.30-10.24.39:072][868]LogActorFactory: Actor Factory created SM_Outer_Wall_07
+[2021.06.30-10.24.39:155][874]Cmd: DELETE
+[2021.06.30-10.24.39:155][874]Cmd: ACTOR DELETE
+[2021.06.30-10.24.39:163][874]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.24.39:166][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.30-10.24.39:167][874]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.30-10.24.40:348][996]LogActorFactory: Actor Factory created SM_Outer_Wall_06
+[2021.06.30-10.24.42:313][231]LogActorFactory: Actor Factory created SM_Outer_Wall_06
+[2021.06.30-10.24.51:542][315]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.24.52:106][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.25.09:291][332]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.25.09:946][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.25.12:059][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.25.14:762][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.25.20:638][677]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.25.22:364][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.25.28:070][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.25.31:740][987]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.25.33:137][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.25.39:590][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.25.41:059][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.30-10.25.41:193][ 87]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyD071EE5E44CE87E8A4F57084405B033B.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.25.41:581][ 87]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltDataE78F3CC046926A88FE2F45898CBE12DD.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.25.41:595][ 87]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.25.41:595][ 87]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.25.41:595][ 87]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.25.45:215][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.25.46:431][659]Cmd: DELETE
+[2021.06.30-10.25.46:431][659]Cmd: ACTOR DELETE
+[2021.06.30-10.25.46:439][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.25.46:443][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.30-10.25.46:445][659]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.06.30-10.25.46:903][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.25.51:630][272]Cmd: TRANSACTION UNDO
+[2021.06.30-10.25.51:630][272]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.25.52:038][283]Cmd: TRANSACTION UNDO
+[2021.06.30-10.25.52:038][283]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.25.52:528][333]Cmd: TRANSACTION UNDO
+[2021.06.30-10.25.52:529][333]LogEditorTransaction: Undo Delete Actors
+[2021.06.30-10.25.53:335][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.26.01:175][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.06.30-10.26.01:308][356]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy7F2B831A4BB569BD0CE438BCBED71AAA.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.26.01:693][356]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltData0B0DE48240354C1F9B0FBBADBA1423D7.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.26.01:707][356]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.26.01:707][356]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.26.01:707][356]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.26.07:780][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.26.19:898][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_55)
+[2021.06.30-10.26.22:316][808]Cmd: TRANSACTION UNDO
+[2021.06.30-10.26.22:316][808]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.26.44:033][332]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.26.46:096][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_58)
+[2021.06.30-10.26.49:749][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_16)
+[2021.06.30-10.26.51:859][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_58)
+[2021.06.30-10.26.54:654][589]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2021.06.30-10.26.55:095][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.26.58:205][  7]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.26.58:598][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.27.00:596][285]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.27.04:223][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.27.07:129][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.27.09:157][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_58)
+[2021.06.30-10.27.18:703][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.27.21:643][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.27.35:415][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.27.39:827][945]Cmd: TRANSACTION UNDO
+[2021.06.30-10.27.39:827][945]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.27.41:740][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_30)
+[2021.06.30-10.27.46:556][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_31)
+[2021.06.30-10.27.49:659][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_58)
+[2021.06.30-10.27.51:531][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_30)
+[2021.06.30-10.27.53:687][535]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.28.04:082][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.28.04:831][825]Cmd: TRANSACTION UNDO
+[2021.06.30-10.28.04:831][825]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.28.06:817][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.28.07:340][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.28.07:889][138]Cmd: TRANSACTION UNDO
+[2021.06.30-10.28.07:889][138]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.28.08:942][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.06.30-10.28.09:080][213]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyD34A03EF4FE57F9746F8F5A4967ABF93.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.28.09:468][213]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltDataB617D2DD4E40ACED593A13B2E0582AFF.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.28.09:484][213]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.28.09:484][213]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.28.09:484][213]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.28.09:802][250]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.28.47:362][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_06)
+[2021.06.30-10.28.55:930][149]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-10.29.07:124][478]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2021.06.30-10.29.16:640][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.29.57:435][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_30)
+[2021.06.30-10.30.03:873][873]Cmd: TRANSACTION UNDO
+[2021.06.30-10.30.03:873][873]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.30.10:311][519]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.30.11:120][607]Cmd: TRANSACTION UNDO
+[2021.06.30-10.30.11:120][607]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.30.13:368][813]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.30.18:055][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_32)
+[2021.06.30-10.30.28:715][418]Cmd: TRANSACTION UNDO
+[2021.06.30-10.30.28:715][418]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.30.30:953][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_57)
+[2021.06.30-10.30.34:106][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.30.36:782][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_57)
+[2021.06.30-10.30.38:947][492]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.30.45:045][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_40)
+[2021.06.30-10.30.50:436][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.30.52:658][925]Cmd: TRANSACTION UNDO
+[2021.06.30-10.30.52:658][925]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.30.57:033][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_57)
+[2021.06.30-10.30.57:545][401]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.30.59:391][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_20)
+[2021.06.30-10.31.02:993][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.31.04:412][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_04)
+[2021.06.30-10.31.08:996][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.31.14:291][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-10.31.14:430][161]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyC25A822C47F3473FB26CB1AEA0E26075.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.31.14:825][161]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltDataAE53FAC94FACD2532954388C29A87E86.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.31.14:841][161]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.31.14:842][161]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.31.14:842][161]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.31.26:540][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-10.31.26:674][428]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyE1D690104453D70E1E31FE9F406B22DB.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.31.27:066][428]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltData50828CB54100B9A1674BF29BCA547EFD.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.31.27:082][428]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.31.27:082][428]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.31.27:082][428]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.31.58:439][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_34)
+[2021.06.30-10.32.01:730][123]Cmd: TRANSACTION UNDO
+[2021.06.30-10.32.01:730][123]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.32.03:073][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_55)
+[2021.06.30-10.32.06:256][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_31)
+[2021.06.30-10.32.06:615][604]Cmd: TRANSACTION UNDO
+[2021.06.30-10.32.06:615][604]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.30-10.32.07:102][617]Cmd: TRANSACTION UNDO
+[2021.06.30-10.32.07:102][617]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.32.12:241][  9]LogActorFactory: Actor Factory created SM_Inner_Wall_12
+[2021.06.30-10.32.13:288][118]LogActorFactory: Actor Factory created SM_Inner_Wall_12
+[2021.06.30-10.32.20:168][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_10)
+[2021.06.30-10.32.21:527][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_12)
+[2021.06.30-10.32.23:846][247]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.30-10.32.26:820][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.32.27:996][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_12)
+[2021.06.30-10.32.30:935][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.32.32:871][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_12)
+[2021.06.30-10.32.38:831][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2021.06.30-10.32.45:015][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_35)
+[2021.06.30-10.32.46:485][881]Cmd: DELETE
+[2021.06.30-10.32.46:485][881]Cmd: ACTOR DELETE
+[2021.06.30-10.32.46:493][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.32.46:497][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.30-10.32.46:501][881]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.06.30-10.32.47:971][  9]LogActorFactory: Actor Factory created SM_Inner_Wall_11
+[2021.06.30-10.32.48:949][117]LogActorFactory: Actor Factory created SM_Inner_Wall_11
+[2021.06.30-10.32.53:395][537]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2021.06.30-10.32.54:916][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_35)
+[2021.06.30-10.32.56:963][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2021.06.30-10.32.58:018][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_35)
+[2021.06.30-10.32.59:858][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2021.06.30-10.33.00:779][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_35)
+[2021.06.30-10.33.02:688][537]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2021.06.30-10.33.04:420][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_35)
+[2021.06.30-10.33.05:831][876]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.33.07:936][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_58)
+[2021.06.30-10.33.11:053][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_12)
+[2021.06.30-10.33.12:812][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.33.14:521][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.30-10.33.14:659][820]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyC73BEB764596C0946396A991D1156383.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.33.15:052][820]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltData70C0E01F40C35B11CF04B5B5D3B48BAC.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.33.15:066][820]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.33.15:066][820]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.33.15:066][820]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.33.18:333][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_12)
+[2021.06.30-10.33.21:951][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.33.25:894][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_12)
+[2021.06.30-10.33.27:710][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere6)
+[2021.06.30-10.33.39:532][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere9)
+[2021.06.30-10.33.40:117][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_63)
+[2021.06.30-10.33.41:363][905]Cmd: DELETE
+[2021.06.30-10.33.41:363][905]Cmd: ACTOR DELETE
+[2021.06.30-10.33.41:377][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-10.33.41:384][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.30-10.33.41:386][905]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.06.30-10.33.41:890][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_62)
+[2021.06.30-10.33.42:457][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere9)
+[2021.06.30-10.33.44:109][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_44)
+[2021.06.30-10.33.44:790][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_23)
+[2021.06.30-10.33.45:465][377]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere9)
+[2021.06.30-10.33.49:193][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_62)
+[2021.06.30-10.33.51:682][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2021.06.30-10.33.55:137][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.30-10.33.55:275][520]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyB5FBBD0E49C1F7BBB22EEC9F59BAEEFE.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.06.30-10.33.55:666][520]LogSavePackage: Moving 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_BuiltDataB143BEED4A714138E4F72DBBB8C6280B.tmp' to 'D:/Game project/Unreal Engine stage/ImnotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.uasset'
+[2021.06.30-10.33.55:679][520]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-10.33.55:679][520]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_BuiltData.Jiraphat_IAMNotCrazy_BuiltData
+[2021.06.30-10.33.55:679][520]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.06.30-10.33.56:585][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Outer_Wall_62)
+[2021.06.30-10.33.57:720][754]Cmd: TRANSACTION UNDO
+[2021.06.30-10.33.57:720][754]LogEditorTransaction: Undo Move Actors
+[2021.06.30-10.33.58:275][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Inner_Wall_35)
+[2021.06.30-10.33.59:082][865]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere9)
+[2021.06.30-10.34.56:973][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.30-10.35.45:484][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
