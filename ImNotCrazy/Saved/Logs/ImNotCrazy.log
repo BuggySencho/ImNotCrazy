@@ -1163,3 +1163,1662 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.01-11.09.03:045][272]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy2F57815F4233F49F6FAF779E2DC50B64.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
 [2021.07.01-11.09.03:162][272]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
 [2021.07.01-11.09.03:162][272]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.11.12:206][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.11.23:127][105]Cmd: TRANSACTION UNDO
+[2021.07.01-11.11.23:127][105]LogEditorTransaction: Undo Move Actors
+[2021.07.01-11.11.23:162][105]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.11.24:947][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.11.36:877][469]Cmd: DUPLICATE
+[2021.07.01-11.11.36:877][469]Cmd: ACTOR DUPLICATE
+[2021.07.01-11.11.38:046][503]Cmd: TRANSACTION UNDO
+[2021.07.01-11.11.38:046][503]LogEditorTransaction: Undo Duplicate Actors
+[2021.07.01-11.11.38:112][503]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.11.47:464][747]Cmd: ACTOR HIDE SELECTED
+[2021.07.01-11.11.48:770][786]Cmd: TRANSACTION UNDO
+[2021.07.01-11.11.48:771][786]LogEditorTransaction: Undo Hide Selected
+[2021.07.01-11.11.48:815][786]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.11.58:549][ 40]Cmd: TRANSACTION UNDO
+[2021.07.01-11.11.58:549][ 40]LogEditorTransaction: Undo Scale Actors
+[2021.07.01-11.11.58:583][ 40]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.12.12:303][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_87)
+[2021.07.01-11.12.13:240][435]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Doorway_01)
+[2021.07.01-11.12.13:272][435]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.12.13:956][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_70)
+[2021.07.01-11.12.19:509][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.15.03:407][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.16.22:510][358]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.16.22:984][367]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.16.24:146][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.16.24:321][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.16.28:934][384]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.01-11.16.28:968][384]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.01-11.16.28:983][384]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.01-11.16.31:581][462]LogContentBrowser: Attempting asset rename: NewBlueprint -> doorActor
+[2021.07.01-11.16.31:586][462]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.01-11.16.52:459][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.17.43:604][991]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.01:238][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.01:343][406]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Door/SM_Doorway_01_Door_01.SM_Doorway_01_Door_01
+[2021.07.01-11.18.01:406][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.01:718][406]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2021.07.01-11.18.01:915][406]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.07.01-11.18.01:915][406]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.07.01-11.18.02:406][406]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.01-11.18.05:048][452]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.05:651][457]LogSlate: Window 'SM_Doorway_01_Door_01' being destroyed
+[2021.07.01-11.18.26:599][893]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.26:705][893]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Door/SM_Doorway_01_Door_02.SM_Doorway_01_Door_02
+[2021.07.01-11.18.35:714][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.18.41:893][234]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.41:928][234]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.18.42:012][234]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.01-11.18.57:469][234]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.07.01-11.19.08:136][486]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.19.08:239][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.19.08:472][486]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.07.01-11.19.19:219][737]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.19.22:531][793]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.19.31:723][911]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.19.31:758][911]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.19.31:845][911]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.01-11.19.46:821][911]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.07.01-11.19.48:726][941]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.19.51:956][984]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.20.09:860][228]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.20.14:317][300]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.20.14:446][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.07.01-11.20.15:113][300]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy_Auto1A506A61F4F062FA6E569628F0C1486D5.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Autosaves/Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy_Auto1.umap'
+[2021.07.01-11.20.15:117][300]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy' took 0.702
+[2021.07.01-11.20.15:117][300]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.702
+[2021.07.01-11.20.19:323][378]Cmd: TRANSACTION UNDO
+[2021.07.01-11.20.19:323][378]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.01-11.20.19:595][378]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.20.25:628][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.21.07:007][149]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.21.07:574][153]LogSlate: Window 'doorActor' being destroyed
+[2021.07.01-11.21.10:423][217]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.21.20:144][387]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.21.32:979][454]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.22.35:655][414]BlueprintLog: New page: Compile doorActor
+[2021.07.01-11.22.35:747][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.07.01-11.22.35:761][414]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.22.35:911][414]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActorF9BC9A584D63CA64F9C175B35ADA51C0.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.22.35:992][414]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.22.35:992][414]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.22.36:007][414]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.01-11.22.41:675][491]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.01-11.22.44:664][568]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.22.45:359][574]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.23.15:416][179]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.23.25:053][382]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.24.36:569][  7]BlueprintLog: New page: Compile doorActor
+[2021.07.01-11.24.36:632][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.07.01-11.24.36:646][  7]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.24.36:789][  7]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActor58C1F1AA4EEFE768BBC6F68C9FE82E30.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.24.36:869][  7]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.24.36:869][  7]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.24.51:836][182]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.24.57:981][341]BlueprintLog: New page: Compile doorActor
+[2021.07.01-11.24.58:041][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.07.01-11.24.58:054][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.24.58:190][341]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActorACDBDCE74A3878C6561A83A6D341571F.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.24.58:270][341]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.24.58:270][341]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.25.04:344][492]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.12:060][573]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.15:000][634]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.16:415][661]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.21:394][683]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.22:014][689]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.31:427][867]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.35:711][950]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.40:937][ 70]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.42:289][ 98]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.55:693][171]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.25.57:926][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.26.09:331][303]BlueprintLog: New page: Compile doorActor
+[2021.07.01-11.26.09:393][303]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.07.01-11.26.09:415][303]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.26.09:561][303]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActor7E51398C445C0C3CE46CAF9707CD350A.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.26.09:648][303]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.26.09:648][303]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.26.40:956][954]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.26.40:966][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.26.40:966][954]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.26.41:100][954]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.26.41:102][954]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:26:41)
+[2021.07.01-11.26.41:102][954]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.26.41:201][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098435s)
+[2021.07.01-11.26.41:202][954]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.26.41:203][954]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2021.07.01-11.26.41:203][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.100447s)
+[2021.07.01-11.26.41:238][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.07.01-11.26.41:241][954]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.26.41:241][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.26.41:241][954]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.26.41:241][954]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.26.41:244][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.26.41:244][954]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.26.41:245][954]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.26.41:246][954]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.26.41:247][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.26.41:247][954]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.26.41:249][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.26.41:249][954]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.26.41:261][954]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.26.41:261][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.26.41:261][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.26.41:262][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.26.41:262][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.26.41:262][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.26.41:262][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.26.41:282][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.26.41:282][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.26.41:282][954]LogInit: FAudioDevice initialized.
+[2021.07.01-11.26.41:282][954]LogAudio: Display: Audio Device (ID: 6) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.26.41:285][954]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.26.41:295][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.26.41:399][954]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.26.41:451][954]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.26.41
+[2021.07.01-11.26.41:454][954]LogWorld: Bringing up level for play took: 0.054314
+[2021.07.01-11.26.41:454][954]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.07.01-11.26.41:467][954]PIE: Server logged in
+[2021.07.01-11.26.41:468][954]PIE: Play in editor total start time 0,505 seconds.
+[2021.07.01-11.26.41:469][954]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.26.41:473][954]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.26.41:605][956]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.26.43:384][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.26.43:384][987]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.26.43:425][987]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.26.43:462][987]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.26.43:469][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.26.43:482][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.26.43:513][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.26.43:546][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.26.43:549][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.26.43:551][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.26.43:588][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.07.01-11.26.43:609][988]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.07.01-11.26.43:644][988]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.27.28:450][502]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.27.28:567][502]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActor51F2EB92479323EFE3C2AC964A892ED8.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.27.28:667][502]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.27.28:667][502]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.27.33:837][645]BlueprintLog: New page: Compile doorActor
+[2021.07.01-11.27.33:903][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.07.01-11.27.33:917][645]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.27.34:063][645]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActor78715FB0491909B251223AB70F38AD17.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.27.34:143][645]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.27.34:143][645]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.27.40:280][813]LogEditorTransaction: Undo Mouse Drag
+[2021.07.01-11.27.40:536][813]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.27.41:095][823]LogEditorTransaction: Undo New Value Entered
+[2021.07.01-11.28.04:908][200]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.28.05:023][200]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActor14B7F15044B27E2FA2F937BD2AB0B0FF.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.28.05:119][200]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.28.05:119][200]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.29.07:669][721]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.29.19:837][808]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.29.33:873][ 93]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.29.34:200][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.29.54:249][370]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.30.03:925][586]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.30.06:673][649]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.30.44:613][ 42]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.30.46:080][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.30.46:094][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.31.23:790][109]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.33.00:482][366]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.33.09:521][392]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.33.09:689][392]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.07.01-11.33.09:691][392]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy' took 0.066
+[2021.07.01-11.33.09:692][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/doorActor] ([2] browsable assets)...
+[2021.07.01-11.33.09:707][392]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor]
+[2021.07.01-11.33.09:717][392]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor]
+[2021.07.01-11.33.09:717][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/doorActor]
+[2021.07.01-11.33.09:734][392]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActor_Auto2D2B9275C45FB2F75EC0E6A910A988A51.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/doorActor_Auto2.uasset'
+[2021.07.01-11.33.09:735][392]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.07.01-11.33.27:527][544]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.33.29:650][574]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.33.30:254][574]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.01-11.34.23:993][145]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.36.08:701][369]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.01-11.36.08:769][369]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.01-11.36.16:601][555]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.36.49:523][263]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.36.49:924][267]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.36.59:441][459]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.36.59:867][464]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.15:066][736]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.15:751][747]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.23:924][807]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.24:386][810]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.37:749][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.53:436][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.37.53:849][215]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.00:238][335]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.24:441][589]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.37:620][776]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.38:406][789]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.42:214][875]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.42:721][883]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.38.54:710][105]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.00:113][215]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.06:088][303]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.09:684][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.09:875][384]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawn4F5AB35A4461CAC07B861C9777E65FA0.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.39.09:961][384]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.39.09:961][384]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.39.22:895][753]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.23:377][761]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.30:585][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.31:298][943]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.40:127][164]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.40:534][170]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.50:576][367]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.56:630][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.39.56:824][439]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawn7AF0F6A343AD64650B0204B3F3EA3857.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.39.56:907][439]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.39.56:907][439]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.40.16:134][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.40.22:140][ 13]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.40.36:228][362]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.40.36:396][362]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2021.07.01-11.40.37:062][362]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy3176E98843C13799432108808232F011.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-11.40.37:185][362]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-11.40.37:186][362]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.40.45:252][554]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.40.45:268][554]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.01-11.40.45:270][554]LogPlayLevel: [PlayLevel] Compiling MotionControllerPawn before play...
+[2021.07.01-11.40.45:291][554]LogBlueprint: Warning: [AssetLog] C:\Users\jobto\Documents\Unreal Projects\ImNotCrazy\ImNotCrazy\ImNotCrazy\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] Could not find the function 'open door' called from  Open Door
+[2021.07.01-11.40.45:368][554]LogPlayLevel: [PlayLevel] Compiling doorActor before play...
+[2021.07.01-11.40.45:439][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.40.45:601][554]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/doorActorA9A16EC34A475CFF1FFF2DB64C968492.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/doorActor.uasset'
+[2021.07.01-11.40.45:735][554]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2021.07.01-11.40.45:738][554]LogPlayLevel: PlayLevel: Blueprint regeneration took 469 ms (2 blueprints)
+[2021.07.01-11.40.45:738][554]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.40.45:882][554]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.40.45:884][554]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:40:45)
+[2021.07.01-11.40.45:884][554]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.40.46:002][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117790s)
+[2021.07.01-11.40.46:004][554]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.40.46:005][554]LogPlayLevel: PIE: World Init took: (0.002111s)
+[2021.07.01-11.40.46:005][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.120367s)
+[2021.07.01-11.40.46:052][554]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.07.01-11.40.46:054][554]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.40.46:054][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.40.46:054][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.40.46:055][554]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.40.46:055][554]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.40.46:057][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.40.46:057][554]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.40.46:058][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.40.46:058][554]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.40.46:058][554]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.40.46:058][554]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.40.46:058][554]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.40.46:059][554]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.40.46:059][554]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.40.46:059][554]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.40.46:060][554]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.40.46:061][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.40.46:061][554]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.40.46:063][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.40.46:063][554]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.40.46:075][554]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.40.46:076][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.40.46:076][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.40.46:076][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.40.46:076][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.40.46:076][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.40.46:076][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.40.46:097][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.40.46:097][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.40.46:097][554]LogInit: FAudioDevice initialized.
+[2021.07.01-11.40.46:097][554]LogAudio: Display: Audio Device (ID: 7) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.40.46:102][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.40.46:115][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.40.46:257][554]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.40.46:317][554]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.40.46
+[2021.07.01-11.40.46:318][554]LogWorld: Bringing up level for play took: 0.060850
+[2021.07.01-11.40.46:318][554]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.07.01-11.40.46:335][554]PIE: Server logged in
+[2021.07.01-11.40.46:338][554]PIE: Play in editor total start time 1,077 seconds.
+[2021.07.01-11.40.46:340][554]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.40.46:343][554]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.40.46:532][555]AssetCheck: New page: Asset Save: doorActor
+[2021.07.01-11.40.46:532][555]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/doorActor.doorActor
+[2021.07.01-11.40.46:546][556]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.40.59:364][808]LogCharacterMovement: VRPawn_507 is stuck and failed to move! Velocity: X=22.75 Y=-39.69 Z=0.00 Location: X=-3716.95 Y=9650.24 Z=198.47 Normal: X=-0.57 Y=0.82 Z=0.00 PenetrationDepth:12.637 Actor:BP_MotionController_C_0 Component:HandMesh BoneName:hand_r (0 other events since notify)
+[2021.07.01-11.41.15:802][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.41.15:802][131]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.41.15:860][131]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.41.15:903][131]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.41.15:912][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.41.15:928][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.41.15:946][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.41.15:990][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.41.15:991][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.41.15:993][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.41.16:037][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.07.01-11.41.16:070][132]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.07.01-11.41.16:093][132]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.41.20:150][227]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.07.01-11.41.20:253][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.07.01-11.41.23:364][293]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.41.23:375][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.41.23:375][293]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.41.23:508][293]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.41.23:510][293]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:41:23)
+[2021.07.01-11.41.23:510][293]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.41.23:612][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102180s)
+[2021.07.01-11.41.23:613][293]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.41.23:614][293]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2021.07.01-11.41.23:614][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.104168s)
+[2021.07.01-11.41.23:662][293]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.07.01-11.41.23:665][293]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.41.23:665][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.41.23:665][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.41.23:666][293]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.41.23:666][293]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.41.23:669][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.41.23:669][293]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.41.23:670][293]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.41.23:671][293]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.41.23:672][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.41.23:672][293]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.41.23:673][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.41.23:673][293]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.41.23:682][293]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.41.23:682][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.41.23:682][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.41.23:682][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.41.23:683][293]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.41.23:683][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.41.23:683][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.41.23:702][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.41.23:702][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.41.23:702][293]LogInit: FAudioDevice initialized.
+[2021.07.01-11.41.23:702][293]LogAudio: Display: Audio Device (ID: 8) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.41.23:706][293]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.41.23:717][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.41.23:826][293]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.41.23:877][293]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.41.23
+[2021.07.01-11.41.23:879][293]LogWorld: Bringing up level for play took: 0.052499
+[2021.07.01-11.41.23:879][293]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.07.01-11.41.23:894][293]PIE: Server logged in
+[2021.07.01-11.41.23:897][293]PIE: Play in editor total start time 0,526 seconds.
+[2021.07.01-11.41.23:898][293]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.41.23:900][293]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.41.24:026][295]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.41.48:713][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.41.48:713][777]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.41.48:770][777]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.41.48:814][777]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.41.48:820][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.41.48:868][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.41.48:885][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.41.48:934][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.41.48:934][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.41.48:936][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.41.48:972][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.07.01-11.41.49:004][778]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.07.01-11.41.49:026][778]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.42.19:885][353]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.42.23:372][415]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.42.29:026][535]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.42.33:233][634]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.42.33:424][634]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawn48ECCFED4F83ED04FA9ED2869DF491F6.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.42.33:492][634]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.42.33:492][634]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.42.36:793][727]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.07.01-11.42.36:898][727]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.07.01-11.42.39:191][778]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.42.39:201][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.42.39:201][778]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.42.39:338][778]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.42.39:339][778]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:42:39)
+[2021.07.01-11.42.39:339][778]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.42.39:440][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100778s)
+[2021.07.01-11.42.39:441][778]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.42.39:442][778]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2021.07.01-11.42.39:442][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.102607s)
+[2021.07.01-11.42.39:490][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2021.07.01-11.42.39:491][778]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.42.39:491][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.42.39:491][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.42.39:492][778]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.42.39:492][778]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.42.39:495][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.42.39:495][778]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.42.39:496][778]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.42.39:497][778]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.42.39:498][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.42.39:498][778]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.42.39:499][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.42.39:499][778]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.42.39:510][778]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.42.39:511][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.42.39:511][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.42.39:511][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.42.39:511][778]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.42.39:511][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.42.39:511][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.42.39:530][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.42.39:530][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.42.39:530][778]LogInit: FAudioDevice initialized.
+[2021.07.01-11.42.39:530][778]LogAudio: Display: Audio Device (ID: 9) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.42.39:534][778]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.42.39:545][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.42.39:654][778]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.42.39:705][778]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.42.39
+[2021.07.01-11.42.39:706][778]LogWorld: Bringing up level for play took: 0.051498
+[2021.07.01-11.42.39:706][778]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.01-11.42.39:729][778]PIE: Server logged in
+[2021.07.01-11.42.39:732][778]PIE: Play in editor total start time 0,534 seconds.
+[2021.07.01-11.42.39:733][778]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.42.39:735][778]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.42.39:862][780]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.43.08:249][343]LogCharacterMovement: VRPawn_507 is stuck and failed to move! Velocity: X=-32.04 Y=-65.42 Z=0.00 Location: X=-3760.52 Y=9650.85 Z=160.15 Normal: X=-0.77 Y=0.64 Z=0.00 PenetrationDepth:3.077 Actor:BP_MotionController_C_0 Component:HandMesh BoneName:hand_r (0 other events since notify)
+[2021.07.01-11.43.22:541][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.43.22:541][599]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.43.22:592][599]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.43.22:623][599]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.43.22:631][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.43.22:684][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.43.22:704][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.43.22:753][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.43.22:753][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.43.22:754][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.43.22:787][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.07.01-11.43.22:832][600]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.01-11.43.22:852][600]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.43.54:254][128]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.43.54:265][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.43.54:265][128]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.43.54:401][128]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.43.54:402][128]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:43:54)
+[2021.07.01-11.43.54:402][128]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.43.54:502][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099441s)
+[2021.07.01-11.43.54:503][128]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.43.54:504][128]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2021.07.01-11.43.54:504][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.101375s)
+[2021.07.01-11.43.54:553][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.07.01-11.43.54:557][128]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.43.54:557][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.43.54:557][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.43.54:558][128]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.43.54:558][128]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.43.54:560][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.43.54:560][128]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.43.54:561][128]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.43.54:562][128]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.43.54:563][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.43.54:563][128]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.43.54:564][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.43.54:564][128]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.43.54:574][128]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.43.54:575][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.43.54:575][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.43.54:575][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.43.54:575][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.43.54:575][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.43.54:575][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.43.54:595][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.43.54:595][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.43.54:595][128]LogInit: FAudioDevice initialized.
+[2021.07.01-11.43.54:596][128]LogAudio: Display: Audio Device (ID: 10) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.43.54:600][128]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.43.54:614][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.43.54:723][128]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.43.54:774][128]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.43.54
+[2021.07.01-11.43.54:775][128]LogWorld: Bringing up level for play took: 0.050441
+[2021.07.01-11.43.54:775][128]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.07.01-11.43.54:791][128]PIE: Server logged in
+[2021.07.01-11.43.54:793][128]PIE: Play in editor total start time 0,532 seconds.
+[2021.07.01-11.43.54:794][128]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.43.54:797][128]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.43.54:921][130]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.45.09:574][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.45.09:575][415]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.45.09:577][415]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.45.09:673][415]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.45.09:680][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.45.09:697][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.45.09:715][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.45.09:764][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.45.09:765][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.45.09:805][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.07.01-11.45.09:842][416]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.07.01-11.45.09:860][416]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.45.17:053][580]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.45.20:604][657]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.45.20:800][657]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawn4487D22245AE9D2E5CD66AA7D721CC7E.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.45.20:882][657]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.45.20:882][657]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.45.35:192][ 58]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.45.35:625][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.45.51:090][379]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.45.51:282][379]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawnC08ABB754597A511F6065BBD3D4C5A94.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.45.51:365][379]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.45.51:365][379]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.45.52:444][412]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.45.52:455][412]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.01-11.45.52:457][412]LogPlayLevel: [PlayLevel] Compiling MotionControllerPawn before play...
+[2021.07.01-11.45.52:599][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.07.01-11.45.52:601][412]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2021.07.01-11.45.52:601][412]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.45.52:733][412]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.45.52:735][412]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:45:52)
+[2021.07.01-11.45.52:735][412]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.45.52:833][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098221s)
+[2021.07.01-11.45.52:834][412]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.45.52:835][412]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2021.07.01-11.45.52:835][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.099943s)
+[2021.07.01-11.45.52:881][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.07.01-11.45.52:882][412]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.45.52:882][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.45.52:882][412]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.45.52:882][412]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.45.52:885][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.45.52:885][412]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.45.52:886][412]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.45.52:887][412]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.45.52:888][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.45.52:888][412]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.45.52:890][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.45.52:890][412]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.45.52:899][412]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.45.52:900][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.45.52:900][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.45.52:900][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.45.52:900][412]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.45.52:900][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.45.52:900][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.45.52:921][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.45.52:921][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.45.52:921][412]LogInit: FAudioDevice initialized.
+[2021.07.01-11.45.52:921][412]LogAudio: Display: Audio Device (ID: 11) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.45.52:924][412]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.45.52:935][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.45.53:045][412]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.45.53:099][412]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.45.53
+[2021.07.01-11.45.53:100][412]LogWorld: Bringing up level for play took: 0.054690
+[2021.07.01-11.45.53:100][412]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.07.01-11.45.53:114][412]PIE: Server logged in
+[2021.07.01-11.45.53:115][412]PIE: Play in editor total start time 0,663 seconds.
+[2021.07.01-11.45.53:116][412]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.45.53:118][412]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.45.53:245][414]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.45.58:521][519]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.45.58:780][524]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.45.58:988][528]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.45.59:272][534]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.45.59:534][539]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.45.59:769][544]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.00:084][550]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.00:382][556]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.00:639][561]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.00:880][566]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.01:129][571]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.01:338][575]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.01:541][579]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.01:772][584]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.01:977][588]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.03:387][616]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.03:644][621]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.04:475][638]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.04:682][642]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.04:868][646]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.05:079][650]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.05:237][653]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.05:475][658]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.05:673][662]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.07:577][700]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.07:829][705]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.08:035][709]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.08:173][712]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.08:372][716]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.08:578][720]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.08:787][724]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.11:858][784]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.12:092][789]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.12:252][792]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.13:442][816]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.14:118][829]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.14:611][839]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.16:297][873]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.16:505][877]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.16:690][881]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.16:899][885]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.17:057][888]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.17:293][893]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.46.21:341][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.46.21:341][966]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.46.21:545][966]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.46.21:592][966]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.46.21:599][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.46.21:647][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.46.21:665][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.46.21:714][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.46.21:715][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.46.21:747][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.07.01-11.46.21:866][967]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.07.01-11.46.21:886][967]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.47.38:079][922]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.47.38:270][922]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawn21BF44F1424E8AF25AA962BCFCFEDA48.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.47.38:354][922]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.47.38:354][922]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.47.40:103][966]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.07.01-11.47.40:209][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.07.01-11.47.42:220][  8]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.47.42:230][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.47.42:230][  8]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.47.42:365][  8]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.47.42:366][  8]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:47:42)
+[2021.07.01-11.47.42:366][  8]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.47.42:472][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105448s)
+[2021.07.01-11.47.42:473][  8]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.47.42:474][  8]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2021.07.01-11.47.42:474][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.107354s)
+[2021.07.01-11.47.42:522][  8]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.07.01-11.47.42:523][  8]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.47.42:523][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.47.42:523][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.47.42:525][  8]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.47.42:525][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.47.42:527][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.47.42:527][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.47.42:528][  8]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.47.42:529][  8]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.47.42:530][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.47.42:530][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.47.42:532][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.47.42:532][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.47.42:542][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.47.42:543][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.47.42:543][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.47.42:543][  8]LogInit: FAudioDevice initialized.
+[2021.07.01-11.47.42:543][  8]LogAudio: Display: Audio Device (ID: 12) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.47.42:547][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.47.42:561][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.47.42:672][  8]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.47.42:734][  8]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.47.42
+[2021.07.01-11.47.42:735][  8]LogWorld: Bringing up level for play took: 0.062117
+[2021.07.01-11.47.42:735][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.07.01-11.47.42:750][  8]PIE: Server logged in
+[2021.07.01-11.47.42:753][  8]PIE: Play in editor total start time 0,525 seconds.
+[2021.07.01-11.47.42:754][  8]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.47.42:756][  8]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.47.42:888][ 10]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.47.53:196][214]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.47.53:432][219]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.47.54:697][244]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.47.55:847][267]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.06:044][471]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.06:542][481]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.06:749][485]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.07:032][491]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.07:288][496]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.07:500][500]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.07:737][505]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.10:180][554]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.10:437][559]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.10:642][563]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.12:794][606]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.12:977][610]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.13:188][614]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.15:399][658]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.15:592][662]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.48.20:878][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.48.20:878][756]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.48.20:933][756]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.48.20:993][756]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.48.21:000][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.48.21:047][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.48.21:065][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.48.21:112][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.48.21:112][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.48.21:113][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.48.21:147][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.07.01-11.48.21:181][757]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.07.01-11.48.21:203][757]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.49.08:666][309]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.07.01-11.49.08:771][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.07.01-11.49.08:816][309]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.08:998][309]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawnAFB910A1453F34EE94598FB6A39C9B08.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.49.09:068][309]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.49.09:068][309]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.49.11:128][353]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.49.11:139][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.49.11:139][353]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.49.11:276][353]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.49.11:279][353]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:49:11)
+[2021.07.01-11.49.11:279][353]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.49.11:377][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098709s)
+[2021.07.01-11.49.11:378][353]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.49.11:379][353]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2021.07.01-11.49.11:379][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.100390s)
+[2021.07.01-11.49.11:427][353]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.07.01-11.49.11:428][353]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.07.01-11.49.11:428][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.49.11:428][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.49.11:428][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.49.11:428][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.49.11:428][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.49.11:428][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.49.11:429][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.49.11:429][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.49.11:429][353]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.49.11:429][353]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.49.11:432][353]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.49.11:433][353]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.49.11:434][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.11:434][353]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.11:436][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.11:436][353]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.11:445][353]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.49.11:446][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.49.11:446][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.49.11:446][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.49.11:446][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.49.11:446][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.49.11:446][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.49.11:467][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.49.11:467][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.49.11:467][353]LogInit: FAudioDevice initialized.
+[2021.07.01-11.49.11:467][353]LogAudio: Display: Audio Device (ID: 13) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.49.11:471][353]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.11:482][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.49.11:583][353]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.49.11:635][353]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.49.11
+[2021.07.01-11.49.11:636][353]LogWorld: Bringing up level for play took: 0.052149
+[2021.07.01-11.49.11:636][353]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.07.01-11.49.11:651][353]PIE: Server logged in
+[2021.07.01-11.49.11:653][353]PIE: Play in editor total start time 0,517 seconds.
+[2021.07.01-11.49.11:654][353]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.49.11:658][353]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.49.11:765][355]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.49.20:352][526]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.49.25:615][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.49.25:616][624]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.49.25:665][624]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.49.25:724][624]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.49.25:731][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.49.25:748][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.49.25:765][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.49.25:811][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.49.25:815][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.49.25:816][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.49.25:852][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.07.01-11.49.25:883][625]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.07.01-11.49.25:906][625]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.49.36:703][889]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.07.01-11.49.36:810][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.07.01-11.49.36:829][889]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.37:026][889]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawnCBC81E3442B35D4565AA7BB7F26DA1F1.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.49.37:110][889]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.49.37:110][889]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.49.37:975][905]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.39:467][929]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.55:055][307]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.07.01-11.49.55:162][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.07.01-11.49.55:181][307]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.55:372][307]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/MotionControllerPawnB654CA17477F15D2E44607BF2103ED6B.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.07.01-11.49.55:455][307]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.07.01-11.49.55:455][307]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.01-11.49.58:363][366]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.49.58:372][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.49.58:372][366]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.49.58:516][366]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.49.58:516][366]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:49:58)
+[2021.07.01-11.49.58:517][366]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.49.58:615][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098146s)
+[2021.07.01-11.49.58:616][366]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.49.58:616][366]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2021.07.01-11.49.58:617][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.099941s)
+[2021.07.01-11.49.58:665][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2021.07.01-11.49.58:666][366]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.49.58:666][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.49.58:666][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.49.58:667][366]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.49.58:667][366]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.49.58:669][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.58:669][366]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.58:670][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.58:670][366]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.58:670][366]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.49.58:670][366]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.49.58:670][366]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.49.58:670][366]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.49.58:671][366]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.49.58:671][366]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.49.58:671][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.58:671][366]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.58:671][366]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.49.58:671][366]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.49.58:672][366]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.49.58:672][366]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.49.58:672][366]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.49.58:672][366]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.49.58:673][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.58:673][366]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.58:674][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.49.58:674][366]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.49.58:683][366]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.49.58:683][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.49.58:683][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.49.58:683][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.49.58:684][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.49.58:684][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.49.58:684][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.49.58:703][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.49.58:704][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.49.58:704][366]LogInit: FAudioDevice initialized.
+[2021.07.01-11.49.58:704][366]LogAudio: Display: Audio Device (ID: 14) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.49.58:708][366]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.49.58:717][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.49.58:826][366]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.49.58:874][366]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.49.58
+[2021.07.01-11.49.58:876][366]LogWorld: Bringing up level for play took: 0.048955
+[2021.07.01-11.49.58:876][366]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.07.01-11.49.58:891][366]PIE: Server logged in
+[2021.07.01-11.49.58:892][366]PIE: Play in editor total start time 0,523 seconds.
+[2021.07.01-11.49.58:893][366]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.49.58:897][366]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.49.59:015][368]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.50.07:457][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.50.07:457][532]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.50.07:504][532]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.50.07:543][532]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.50.07:554][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.50.07:576][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.50.07:596][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.50.07:644][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.50.07:644][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.50.07:645][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.50.07:682][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.07.01-11.50.07:724][533]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.07.01-11.50.07:747][533]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.50.23:832][932]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.50.23:842][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.50.23:842][932]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.50.23:981][932]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.50.23:982][932]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:50:23)
+[2021.07.01-11.50.23:982][932]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.50.24:079][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096686s)
+[2021.07.01-11.50.24:080][932]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.50.24:081][932]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2021.07.01-11.50.24:081][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.098437s)
+[2021.07.01-11.50.24:128][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.07.01-11.50.24:132][932]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.50.24:132][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.50.24:132][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.50.24:133][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.50.24:133][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.50.24:135][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.50.24:135][932]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.50.24:136][932]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.50.24:137][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.50.24:137][932]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.50.24:137][932]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.50.24:137][932]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.50.24:137][932]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.50.24:138][932]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.50.24:138][932]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.50.24:138][932]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.50.24:138][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.50.24:139][932]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.50.24:140][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.50.24:140][932]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.50.24:149][932]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.50.24:150][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.50.24:150][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.50.24:150][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.50.24:150][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.50.24:150][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.50.24:150][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.50.24:170][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.50.24:170][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.50.24:170][932]LogInit: FAudioDevice initialized.
+[2021.07.01-11.50.24:170][932]LogAudio: Display: Audio Device (ID: 15) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.50.24:174][932]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.50.24:183][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.50.24:292][932]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.50.24:354][932]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.50.24
+[2021.07.01-11.50.24:355][932]LogWorld: Bringing up level for play took: 0.061546
+[2021.07.01-11.50.24:355][932]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.07.01-11.50.24:370][932]PIE: Server logged in
+[2021.07.01-11.50.24:374][932]PIE: Play in editor total start time 0,534 seconds.
+[2021.07.01-11.50.24:375][932]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.50.24:378][932]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.50.24:498][934]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.50.29:067][ 24]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.50.44:917][341]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.50.50:588][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.50.50:588][444]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.50.50:664][444]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.50.50:702][444]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.50.50:708][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.50.50:721][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.50.50:741][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.50.50:784][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.50.50:789][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.50.50:790][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.50.50:826][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.07.01-11.50.50:872][445]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.07.01-11.50.50:891][445]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.50.52:436][477]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.50.52:575][477]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.07.01-11.50.53:249][477]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy5EAF68324E53750AFA4416B3FD9974F7.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-11.50.53:360][477]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-11.50.53:360][477]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.51.31:952][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.51.35:966][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_01)
+[2021.07.01-11.51.36:842][996]Cmd: DELETE
+[2021.07.01-11.51.36:842][996]Cmd: ACTOR DELETE
+[2021.07.01-11.51.36:880][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-11.51.36:926][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.07.01-11.51.36:930][996]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2021.07.01-11.51.39:769][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.51.43:197][163]Cmd: DELETE
+[2021.07.01-11.51.43:197][163]Cmd: ACTOR DELETE
+[2021.07.01-11.51.43:230][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-11.51.43:273][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.07.01-11.51.43:276][163]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2021.07.01-11.51.44:325][188]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.52.07:922][823]Cmd: TRANSACTION UNDO
+[2021.07.01-11.52.07:922][823]LogEditorTransaction: Undo Create Actors
+[2021.07.01-11.52.08:198][823]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.52.08:528][825]Cmd: TRANSACTION UNDO
+[2021.07.01-11.52.08:528][825]LogEditorTransaction: Undo Delete Actors
+[2021.07.01-11.52.10:671][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.52.34:025][183]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.52.34:160][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.07.01-11.52.34:828][183]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy38A35E124367852AD4EA0ABF2DF48615.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-11.52.34:951][183]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-11.52.34:951][183]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.52.47:333][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.52.50:597][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.52.51:011][562]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.52.56:940][651]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.52.58:270][651]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.01-11.52.58:317][651]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.01-11.52.58:341][651]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.01-11.53.03:543][788]LogContentBrowser: Attempting asset rename: NewBlueprint -> door2Actor
+[2021.07.01-11.53.03:549][788]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.01-11.53.05:237][825]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.53.05:342][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/door2Actor.door2Actor
+[2021.07.01-11.53.09:073][894]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.53.18:598][ 79]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.53.29:110][270]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.54.12:969][288]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.54.21:834][477]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.54.59:938][420]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.54.59:938][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.55.03:036][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.55.10:701][673]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.55.20:698][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.55.25:408][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.55.31:262][224]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor2)
+[2021.07.01-11.55.39:309][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doorway_01_Door_02)
+[2021.07.01-11.55.42:707][516]Cmd: DELETE
+[2021.07.01-11.55.42:707][516]Cmd: ACTOR DELETE
+[2021.07.01-11.55.42:740][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-11.55.42:796][516]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2021.07.01-11.55.42:803][516]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2021.07.01-11.55.43:324][530]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor2)
+[2021.07.01-11.56.00:927][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.56.01:081][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.07.01-11.56.01:737][  8]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy2EE06ABB4C30B845280912B5156E28D4.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-11.56.01:857][  8]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-11.56.01:857][  8]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.56.02:515][ 20]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.56.02:657][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.07.01-11.56.03:301][ 20]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy2AA416CF4974C797E3FAC69CAAD049BB.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-11.56.03:427][ 20]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-11.56.03:427][ 20]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.56.04:595][ 43]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.56.04:605][ 43]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.01-11.56.04:606][ 43]LogPlayLevel: [PlayLevel] Compiling door2Actor before play...
+[2021.07.01-11.56.04:644][ 43]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.56.04:792][ 43]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/door2Actor57CC9F1A4F8AF98AD6F796BCB6C019B4.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/VirtualRealityBP/Blueprints/door2Actor.uasset'
+[2021.07.01-11.56.04:912][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.07.01-11.56.04:912][ 43]LogPlayLevel: PlayLevel: Blueprint regeneration took 307 ms (1 blueprints)
+[2021.07.01-11.56.04:912][ 43]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.56.05:043][ 43]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.56.05:044][ 43]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:56:05)
+[2021.07.01-11.56.05:044][ 43]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.56.05:150][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106453s)
+[2021.07.01-11.56.05:151][ 43]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.56.05:152][ 43]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2021.07.01-11.56.05:152][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.108415s)
+[2021.07.01-11.56.05:201][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.07.01-11.56.05:202][ 43]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.56.05:202][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.56.05:202][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.56.05:203][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.56.05:203][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.56.05:205][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.56.05:205][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.56.05:207][ 43]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.56.05:208][ 43]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.56.05:209][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.56.05:209][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.56.05:211][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.56.05:211][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.56.05:221][ 43]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.56.05:222][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.56.05:222][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.56.05:222][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.56.05:222][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.56.05:222][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.56.05:222][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.56.05:242][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.56.05:242][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.56.05:242][ 43]LogInit: FAudioDevice initialized.
+[2021.07.01-11.56.05:242][ 43]LogAudio: Display: Audio Device (ID: 16) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.56.05:246][ 43]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.56.05:257][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.56.05:367][ 43]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.56.05:420][ 43]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.56.05
+[2021.07.01-11.56.05:421][ 43]LogWorld: Bringing up level for play took: 0.053217
+[2021.07.01-11.56.05:421][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.07.01-11.56.05:436][ 43]PIE: Server logged in
+[2021.07.01-11.56.05:438][ 43]PIE: Play in editor total start time 0,836 seconds.
+[2021.07.01-11.56.05:439][ 43]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.56.05:444][ 43]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.56.05:546][ 44]AssetCheck: New page: Asset Save: door2Actor
+[2021.07.01-11.56.05:546][ 44]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/door2Actor.door2Actor
+[2021.07.01-11.56.05:559][ 45]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.56.16:141][255]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.56.27:107][474]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.56.41:173][755]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.57.19:252][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.57.19:252][502]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.57.19:296][502]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.57.19:344][502]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.57.19:350][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.57.19:399][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.57.19:416][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.57.19:468][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.57.19:469][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.57.19:501][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.07.01-11.57.19:539][503]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.07.01-11.57.19:558][503]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.57.25:295][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SMr_Stairs_Door)
+[2021.07.01-11.57.28:256][733]Cmd: DELETE
+[2021.07.01-11.57.28:256][733]Cmd: ACTOR DELETE
+[2021.07.01-11.57.28:287][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-11.57.28:336][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.07.01-11.57.28:338][733]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2021.07.01-11.57.29:245][752]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.57.41:814][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Outdoor_Staircase)
+[2021.07.01-11.57.51:410][339]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.57.51:548][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.07.01-11.57.52:199][339]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy7FF8BCDC4740147B97ED94B92D9874BC.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-11.57.52:317][339]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-11.57.52:317][339]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-11.57.52:789][350]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-11.57.52:798][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-11.57.52:798][350]LogHMD: Initializing OVRPlugin session
+[2021.07.01-11.57.52:922][350]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-11.57.52:923][350]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 15:57:52)
+[2021.07.01-11.57.52:923][350]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.57.53:028][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103612s)
+[2021.07.01-11.57.53:029][350]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-11.57.53:029][350]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2021.07.01-11.57.53:029][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.105318s)
+[2021.07.01-11.57.53:076][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.07.01-11.57.53:077][350]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-11.57.53:077][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-11.57.53:077][350]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-11.57.53:077][350]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-11.57.53:080][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.57.53:080][350]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.57.53:080][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.57.53:081][350]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-11.57.53:082][350]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-11.57.53:083][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.57.53:083][350]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.57.53:084][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-11.57.53:084][350]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-11.57.53:094][350]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-11.57.53:094][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-11.57.53:094][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-11.57.53:094][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-11.57.53:094][350]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-11.57.53:094][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-11.57.53:094][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-11.57.53:115][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-11.57.53:115][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-11.57.53:115][350]LogInit: FAudioDevice initialized.
+[2021.07.01-11.57.53:115][350]LogAudio: Display: Audio Device (ID: 17) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-11.57.53:118][350]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.57.53:128][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.57.53:237][350]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-11.57.53:290][350]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-13.57.53
+[2021.07.01-11.57.53:291][350]LogWorld: Bringing up level for play took: 0.053044
+[2021.07.01-11.57.53:292][350]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.07.01-11.57.53:305][350]PIE: Server logged in
+[2021.07.01-11.57.53:307][350]PIE: Play in editor total start time 0,512 seconds.
+[2021.07.01-11.57.53:308][350]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.57.53:311][350]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-11.57.53:436][352]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-11.57.59:980][482]LogCharacterMovement: VRPawn_507 is stuck and failed to move! Velocity: X=-125.00 Y=-221.89 Z=0.00 Location: X=-4048.99 Y=9592.45 Z=160.15 Normal: X=-0.85 Y=0.52 Z=0.00 PenetrationDepth:13.817 Actor:BP_MotionController_C_0 Component:HandMesh BoneName:hand_r (0 other events since notify)
+[2021.07.01-11.58.03:556][551]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.12:508][730]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.13:552][751]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.23:947][959]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.24:657][973]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.25:015][980]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.25:955][999]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.27:346][ 27]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.28:494][ 50]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.29:448][ 69]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.29:657][ 73]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.29:847][ 77]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.30:048][ 81]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.31:017][100]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.31:372][107]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.31:652][113]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.31:962][119]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.32:956][139]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.33:093][142]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.33:343][147]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.34:254][165]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.34:563][171]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.35:295][186]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.35:498][190]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.38:815][256]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.43:364][347]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.43:598][352]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.43:811][356]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.44:049][361]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.44:252][365]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.44:817][376]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.45:204][384]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.45:593][392]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.45:853][397]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.46:143][403]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.46:494][410]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.47:261][425]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.50:561][491]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.51:116][502]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.58.51:467][509]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-11.59.14:542][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-11.59.14:542][956]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-11.59.14:591][956]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-11.59.14:634][956]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-11.59.14:643][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.59.14:656][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-11.59.14:685][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-11.59.14:729][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-11.59.14:733][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.59.14:735][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-11.59.14:771][956]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.07.01-11.59.14:814][957]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.07.01-11.59.14:836][957]LogEngine: Changing dynamic resolution state.
+[2021.07.01-11.59.21:701][143]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor3)
+[2021.07.01-11.59.22:126][155]Cmd: TRANSACTION UNDO
+[2021.07.01-11.59.22:126][155]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.01-11.59.22:366][155]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.59.26:820][250]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor3)
+[2021.07.01-11.59.44:726][686]LogStaticMesh: Building static mesh SM_Doorway_Stairs...
+[2021.07.01-11.59.44:770][686]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.59.44:882][686]LogStaticMesh: Built static mesh [0.16s] /Game/Hospital/Meshes/Building/Door/SM_Doorway_Stairs.SM_Doorway_Stairs
+[2021.07.01-11.59.44:981][686]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.59.45:010][686]LogActorFactory: Actor Factory created SM_Doorway_Stairs
+[2021.07.01-11.59.45:340][691]LogActorFactory: Actor Factory created SM_Doorway_Stairs
+[2021.07.01-11.59.54:883][953]Cmd: DELETE
+[2021.07.01-11.59.54:883][953]Cmd: ACTOR DELETE
+[2021.07.01-11.59.54:915][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-11.59.54:962][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.07.01-11.59.54:968][953]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2021.07.01-11.59.56:638][994]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-11.59.56:666][994]LogActorFactory: Actor Factory created SM_Glass_Partition_Door
+[2021.07.01-11.59.59:044][ 57]LogActorFactory: Actor Factory created SM_Glass_Partition_Door
+[2021.07.01-11.59.59:492][ 68]Cmd: DELETE
+[2021.07.01-11.59.59:492][ 68]Cmd: ACTOR DELETE
+[2021.07.01-11.59.59:525][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-11.59.59:571][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.07.01-11.59.59:572][ 68]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.07.01-12.00.05:345][168]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.05:451][168]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hospital/Meshes/Building/Door/SM_Door_Outdoor_Staircase.SM_Door_Outdoor_Staircase
+[2021.07.01-12.00.07:928][216]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-12.00.07:928][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-12.00.12:761][316]LogStaticMesh: Building static mesh SM_Doorway_Operating_Room...
+[2021.07.01-12.00.12:817][316]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.12:926][316]LogStaticMesh: Built static mesh [0.17s] /Game/Hospital/Meshes/Building/Door/SM_Doorway_Operating_Room.SM_Doorway_Operating_Room
+[2021.07.01-12.00.13:028][316]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.13:046][316]LogActorFactory: Actor Factory created SM_Doorway_Operating_Room
+[2021.07.01-12.00.14:218][345]LogActorFactory: Actor Factory created SM_Doorway_Operating_Room
+[2021.07.01-12.00.14:360][348]Cmd: DELETE
+[2021.07.01-12.00.14:360][348]Cmd: ACTOR DELETE
+[2021.07.01-12.00.14:392][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-12.00.14:444][348]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.07.01-12.00.14:446][348]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2021.07.01-12.00.15:481][370]LogStaticMesh: Building static mesh SM_Doorway_02_Door_01...
+[2021.07.01-12.00.15:520][370]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.15:635][370]LogStaticMesh: Built static mesh [0.15s] /Game/Hospital/Meshes/Building/Door/SM_Doorway_02_Door_01.SM_Doorway_02_Door_01
+[2021.07.01-12.00.15:732][370]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.15:761][370]LogActorFactory: Actor Factory created SM_Doorway_02_Door_01
+[2021.07.01-12.00.16:276][382]LogActorFactory: Actor Factory created SM_Doorway_02_Door_01
+[2021.07.01-12.00.16:661][392]Cmd: DELETE
+[2021.07.01-12.00.16:661][392]Cmd: ACTOR DELETE
+[2021.07.01-12.00.16:694][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-12.00.16:740][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.07.01-12.00.16:741][392]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.07.01-12.00.17:445][408]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.17:519][409]LogActorFactory: Actor Factory created SM_Doorway_02
+[2021.07.01-12.00.19:186][450]LogActorFactory: Actor Factory created SM_Doorway_02
+[2021.07.01-12.00.19:418][456]Cmd: DELETE
+[2021.07.01-12.00.19:418][456]Cmd: ACTOR DELETE
+[2021.07.01-12.00.19:450][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.01-12.00.19:498][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.07.01-12.00.19:499][456]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.07.01-12.00.20:253][472]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.20:279][472]LogActorFactory: Actor Factory created SMr_Stairs_Door
+[2021.07.01-12.00.20:571][477]LogActorFactory: Actor Factory created SMr_Stairs_Door
+[2021.07.01-12.00.22:315][520]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor3)
+[2021.07.01-12.00.23:293][546]Cmd: DELETE
+[2021.07.01-12.00.23:293][546]Cmd: ACTOR DELETE
+[2021.07.01-12.00.23:324][546]LogEditorActor: Deleted Actor: doorActor_C
+[2021.07.01-12.00.23:372][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.07.01-12.00.23:373][546]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.07.01-12.00.26:413][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Ceiling_81)
+[2021.07.01-12.00.26:809][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SMr_Stairs_Door)
+[2021.07.01-12.00.49:926][243]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.50:063][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.07.01-12.00.50:718][243]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyA236EFDF4F72283F7A5C53848B88DD91.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-12.00.50:837][243]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-12.00.50:837][243]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-12.00.51:231][250]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.51:369][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.07.01-12.00.52:022][250]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazyA20463B94EA8E57991650F9D75CB9DBB.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-12.00.52:143][250]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-12.00.52:143][250]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
+[2021.07.01-12.00.52:459][257]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-12.00.52:469][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-12.00.52:469][257]LogHMD: Initializing OVRPlugin session
+[2021.07.01-12.00.52:602][257]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-12.00.52:603][257]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 16:00:52)
+[2021.07.01-12.00.52:603][257]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-12.00.52:715][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112301s)
+[2021.07.01-12.00.52:717][257]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-12.00.52:717][257]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2021.07.01-12.00.52:718][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.114195s)
+[2021.07.01-12.00.52:764][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.07.01-12.00.52:765][257]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-12.00.52:765][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-12.00.52:765][257]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-12.00.52:765][257]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-12.00.52:768][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.00.52:768][257]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-12.00.52:769][257]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-12.00.52:770][257]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-12.00.52:771][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.00.52:771][257]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.00.52:773][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.00.52:773][257]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.00.52:784][257]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-12.00.52:784][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-12.00.52:784][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-12.00.52:784][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-12.00.52:785][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-12.00.52:785][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-12.00.52:785][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-12.00.52:803][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-12.00.52:803][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-12.00.52:803][257]LogInit: FAudioDevice initialized.
+[2021.07.01-12.00.52:803][257]LogAudio: Display: Audio Device (ID: 18) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-12.00.52:807][257]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.00.52:817][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-12.00.52:936][257]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-12.00.52:990][257]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-14.00.52
+[2021.07.01-12.00.52:991][257]LogWorld: Bringing up level for play took: 0.055014
+[2021.07.01-12.00.52:992][257]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.07.01-12.00.53:007][257]PIE: Server logged in
+[2021.07.01-12.00.53:009][257]PIE: Play in editor total start time 0,543 seconds.
+[2021.07.01-12.00.53:011][257]LogEngine: Changing dynamic resolution state.
+[2021.07.01-12.00.53:013][257]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-12.00.53:130][259]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-12.00.59:205][380]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-12.01.08:949][575]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-12.01.31:704][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-12.01.31:705][ 20]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-12.01.31:751][ 20]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-12.01.31:802][ 20]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-12.01.31:808][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-12.01.31:855][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-12.01.31:888][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-12.01.31:937][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-12.01.31:937][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-12.01.31:938][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-12.01.31:970][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.07.01-12.01.32:011][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.07.01-12.01.32:035][ 21]LogEngine: Changing dynamic resolution state.
+[2021.07.01-12.01.36:724][145]LogTemp: Repeating last play command: VR Preview
+[2021.07.01-12.01.36:733][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-12.01.36:733][145]LogHMD: Initializing OVRPlugin session
+[2021.07.01-12.01.36:866][145]LogHMD: Allocating Oculus 3616 x 2000 rendertarget swapchain
+[2021.07.01-12.01.36:867][145]PIE: New page: PIE session: Jiraphat_IAMNotCrazy (1 jul. 2021 16:01:36)
+[2021.07.01-12.01.36:867][145]LogPlayLevel: Creating play world package: /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-12.01.36:966][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098212s)
+[2021.07.01-12.01.36:967][145]LogAIModule: Creating AISystem for world Jiraphat_IAMNotCrazy
+[2021.07.01-12.01.36:968][145]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2021.07.01-12.01.36:968][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy to /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy (0.099973s)
+[2021.07.01-12.01.37:015][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.07.01-12.01.37:016][145]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-12.01.37:016][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-12.01.37:016][145]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-12.01.37:016][145]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-12.01.37:019][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.01.37:019][145]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-12.01.37:020][145]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 4: BackLeft
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 5: BackRight
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 6: SideLeft
+[2021.07.01-12.01.37:021][145]LogAudioMixer: Display: 7: SideRight
+[2021.07.01-12.01.37:022][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.01.37:022][145]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.01.37:024][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-12.01.37:024][145]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-12.01.37:034][145]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2021.07.01-12.01.37:034][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-12.01.37:034][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-12.01.37:034][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-12.01.37:035][145]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-12.01.37:035][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-12.01.37:035][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-12.01.37:054][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-12.01.37:054][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-12.01.37:054][145]LogInit: FAudioDevice initialized.
+[2021.07.01-12.01.37:054][145]LogAudio: Display: Audio Device (ID: 19) registered with world 'Jiraphat_IAMNotCrazy'.
+[2021.07.01-12.01.37:057][145]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.01.37:066][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-12.01.37:171][145]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-12.01.37:220][145]LogWorld: Bringing World /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy up for play (max tick rate 0) at 2021.07.01-14.01.37
+[2021.07.01-12.01.37:222][145]LogWorld: Bringing up level for play took: 0.049941
+[2021.07.01-12.01.37:222][145]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.07.01-12.01.37:236][145]PIE: Server logged in
+[2021.07.01-12.01.37:239][145]PIE: Play in editor total start time 0,508 seconds.
+[2021.07.01-12.01.37:240][145]LogEngine: Changing dynamic resolution state.
+[2021.07.01-12.01.37:242][145]LogHMD: Allocating Oculus 3616 x 2000 depth rendertarget swapchain
+[2021.07.01-12.01.37:320][147]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.07.01-12.01.42:918][258]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-12.01.52:086][436]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-12.01.53:232][459]LogBlueprintUserMessages: [VRPawn_507] Hello
+[2021.07.01-12.02.38:002][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-12.02.38:002][343]LogWorld: BeginTearingDown for /Game/ImNotCrazy/Map/UEDPIE_0_Jiraphat_IAMNotCrazy
+[2021.07.01-12.02.38:043][343]LogSlate: Window 'ImNotCrazy Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.07.01-12.02.38:092][343]LogWorld: UWorld::CleanupWorld for Jiraphat_IAMNotCrazy, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-12.02.38:099][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-12.02.38:116][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-12.02.38:151][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-12.02.38:199][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-12.02.38:203][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-12.02.38:204][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-12.02.38:237][343]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.07.01-12.02.38:286][344]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.07.01-12.02.38:309][344]LogEngine: Changing dynamic resolution state.
+[2021.07.01-12.02.39:613][369]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.07.01-12.02.39:752][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.07.01-12.02.40:414][369]LogSavePackage: Moving '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Saved/Jiraphat_IAMNotCrazy8E4B77F8450B71A3D8E968A4DFF9B3FB.tmp' to '../../../../../../Users/jobto/Documents/Unreal Projects/ImNotCrazy/ImNotCrazy/ImNotCrazy/Content/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.umap'
+[2021.07.01-12.02.40:524][369]AssetCheck: New page: Asset Save: Jiraphat_IAMNotCrazy
+[2021.07.01-12.02.40:525][369]LogContentValidation: Display: Validating World /Game/ImNotCrazy/Map/Jiraphat_IAMNotCrazy.Jiraphat_IAMNotCrazy
